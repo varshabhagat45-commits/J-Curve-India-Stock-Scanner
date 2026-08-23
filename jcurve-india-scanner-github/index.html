@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>J-Curve India — Live Stock Scanner</title>
+  <meta name="description" content="Indian stock scanner focused on earnings inflection points across the NSE/BSE universe — filter by sector, stage and score.">
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.4/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="logo">J</div>
+      <div>
+        <div class="brand-title">J-CURVE INDIA</div>
+        <div class="brand-sub">INFLECTION STOCK SCANNER</div>
+      </div>
+    </div>
+    <div class="top-actions">
+      <span id="dataStatus" class="status"><i></i> Demo data</span>
+      <button id="refreshBtn" class="btn">↻ Refresh</button>
+      <a class="btn ghost" href="README.md" target="_blank">Docs</a>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <div>
+        <div class="eyebrow">INDIA • NSE / BSE • J-CURVE FRAMEWORK</div>
+        <h1>Find the inflection <span>before the acceleration.</span></h1>
+        <p>Screen for real triggers, capacity ramps, accelerating revenue, expanding margins and valuation room — before the earnings story becomes obvious.</p>
+        <div class="sector-focus">Use the sector filter below to browse any tracked sector.</div>
+      </div>
+      <div class="hero-card">
+        <div class="hero-number" id="candidateCount">0</div>
+        <div>tracked candidates</div>
+        <small>Stage 2 is the target zone</small>
+      </div>
+    </section>
+
+    <section class="metrics" id="metrics"></section>
+
+    <section class="controls panel">
+      <div class="control-group search">
+        <label>Search</label>
+        <input id="search" type="search" placeholder="Company or symbol…">
+      </div>
+      <div class="control-group">
+        <label>Stage</label>
+        <select id="stageFilter">
+          <option value="ALL">All stages</option>
+          <option value="2">Stage 2 · Inflection</option>
+          <option value="1">Stage 1 · Base</option>
+          <option value="3">Stage 3 · Acceleration</option>
+        </select>
+      </div>
+      <div class="control-group">
+        <label>Minimum score</label>
+        <select id="scoreFilter">
+          <option value="0">Any</option>
+          <option value="80">80+</option>
+          <option value="70">70+</option>
+          <option value="60">60+</option>
+        </select>
+      </div>
+      <div class="control-group">
+        <label>Sector</label>
+        <select id="sectorFilter"><option value="ALL">All sectors</option></select>
+      </div>
+      <div class="control-group">
+        <label>Sort</label>
+        <select id="sortBy">
+          <option value="score">J-Curve score</option>
+          <option value="accel">Revenue acceleration</option>
+          <option value="margin">Margin expansion</option>
+          <option value="price">Price change</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="dashboard-grid">
+      <div class="panel table-panel">
+        <div class="panel-head">
+          <div>
+            <h2>J-Curve Candidates</h2>
+            <p>Concrete evidence only. Scores are model outputs, not investment advice.</p>
+          </div>
+          <span class="pill" id="visibleCount">0 shown</span>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Company</th><th>Stage</th><th>Score</th><th>Revenue YoY</th><th>EBITDA YoY</th>
+                <th>PAT YoY</th><th>EBITDA Margin</th><th>ROCE</th><th>Price</th><th>Action</th>
+              </tr>
+            </thead>
+            <tbody id="stockRows"></tbody>
+          </table>
+        </div>
+      </div>
+
+      <aside class="panel thesis-panel">
+        <div class="panel-head"><div><h2>Selected thesis</h2><p>Click a candidate to inspect the J-curve.</p></div></div>
+        <div id="emptyThesis" class="empty">Select a company from the table.</div>
+        <div id="thesis" class="hidden">
+          <div class="company-head">
+            <div>
+              <div id="selectedSymbol" class="symbol"></div>
+              <h3 id="selectedName"></h3>
+              <span id="selectedSector" class="tag"></span>
+            </div>
+            <div id="selectedScore" class="score-big"></div>
+          </div>
+          <div class="stage-line">
+            <span id="selectedStage"></span>
+            <span id="selectedVerdict"></span>
+          </div>
+          <canvas id="growthChart" height="210"></canvas>
+          <div class="evidence">
+            <h3>Evidence chain</h3>
+            <div id="evidenceList"></div>
+          </div>
+          <div class="mini-grid" id="detailMetrics"></div>
+          <div class="risk-box"><strong>Invalidation:</strong> <span id="invalidation"></span></div>
+          <div class="core-check" id="coreCheck"></div>
+          <div class="qa-section">
+            <h3>Seven-question check</h3>
+            <p class="qa-intro">The score is a summary — these are the actual analysis.</p>
+            <div id="qaList"></div>
+          </div>
+        </div>
+      </aside>
+    </section>
+
+    <section class="panel methodology sixsteps">
+      <div class="panel-head"><div><h2>The six-step J-curve</h2><p>The edge lives in steps 1–3, before the profit jump is obvious to everyone.</p></div></div>
+      <div class="steps-strip">
+        <div class="step-chip edge"><b>1. Trigger</b><span>Something real changes</span></div>
+        <div class="step-chip edge"><b>2. Capacity</b><span>Built ahead of demand</span></div>
+        <div class="step-chip edge"><b>3. Revenue accel.</b><span>Growth rate climbing</span></div>
+        <div class="step-chip"><b>4. Margin expansion</b><span>More profit per rupee</span></div>
+        <div class="step-chip late"><b>5. Profit accel.</b><span>Obvious — in the news</span></div>
+        <div class="step-chip late"><b>6. Re-rating</b><span>Market reprices it</span></div>
+      </div>
+    </section>
+
+    <section class="panel methodology">
+      <div class="panel-head"><div><h2>How the scanner works</h2><p>Nine evidence points, weighted toward early operating inflection.</p></div></div>
+      <div class="method-grid">
+        <div><b>01 Trigger</b><span>Plant, customer, approval, debt, product or policy change.</span></div>
+        <div><b>02 Capacity</b><span>Capacity addition and utilization evidence.</span></div>
+        <div><b>03 Revenue acceleration</b><span>Growth rate must improve, not merely remain high.</span></div>
+        <div><b>04 Margin expansion</b><span>EBITDA/EBIT margins moving upward.</span></div>
+        <div><b>05 Operating leverage</b><span>EBITDA growth outpaces revenue growth.</span></div>
+        <div><b>06 Sector tailwind</b><span>Structural demand supports the company.</span></div>
+        <div><b>07 Pricing</b><span>Valuation leaves room for earnings surprises.</span></div>
+        <div><b>08 Path credibility</b><span>Evidence supports 2–3 years of growth.</span></div>
+        <div><b>09 Management</b><span>Execution history supports the thesis.</span></div>
+      </div>
+    </section>
+
+    <footer>
+      <span>J-Curve India Scanner • Research tool</span>
+      <span>Data source and timestamp are shown in the live adapter.</span>
+    </footer>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
