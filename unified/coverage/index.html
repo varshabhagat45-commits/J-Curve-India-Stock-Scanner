@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>J-Curve India — Coverage Report</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="logo">JC</div>
+      <div>
+        <h1>J-Curve India — Coverage Report</h1>
+        <p>65 sub-sectors × 165 tracked tickers · <a href="../" style="color:#3ddc97">← back to Unified Verdict</a></p>
+      </div>
+    </div>
+    <div class="topbar-actions">
+      <span id="asOf" class="muted"></span>
+    </div>
+  </header>
+
+  <section class="counters">
+    <div class="card buy"><div class="lbl">COVERED</div><div id="cCovered" class="val">—</div><div class="sub">Fully tracked</div></div>
+    <div class="card watch"><div class="lbl">PARTIAL</div><div id="cPartial" class="val">—</div><div class="sub">Some tickers</div></div>
+    <div class="card avoid"><div class="lbl">MISSING</div><div id="cMissing" class="val">—</div><div class="sub">No tickers</div></div>
+    <div class="card"><div class="lbl">UNIVERSE</div><div id="cUniverse" class="val">—</div><div class="sub">165 tracked tickers</div></div>
+  </section>
+
+  <section class="filters">
+    <select id="status">
+      <option value="">All statuses</option>
+      <option value="covered">✅ Covered</option>
+      <option value="partial">⚠ Partial</option>
+      <option value="missing">❌ Missing</option>
+    </select>
+    <select id="group">
+      <option value="">All groups</option>
+    </select>
+    <input id="search" placeholder="Search sub-sector…" />
+  </section>
+
+  <section class="grid">
+    <div class="table-card">
+      <table>
+        <thead>
+          <tr>
+            <th>Sub-sector</th>
+            <th>Status</th>
+            <th>Your tickers</th>
+            <th>Missing</th>
+          </tr>
+        </thead>
+        <tbody id="rows"></tbody>
+      </table>
+    </div>
+    <aside class="thesis-card" id="thesis">
+      <h3>Sub-sector detail</h3>
+      <p class="muted">Click a row to see details.</p>
+    </aside>
+  </section>
+
+  <footer>
+    <span>Data: 65 sub-sectors from Motilal Oswal Equity Research compendium (Sep 2026). J-Curve tickers as of <span id="footerDate">2026-09-04</span>.</span>
+    <span>This is a research tool, not investment advice.</span>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
