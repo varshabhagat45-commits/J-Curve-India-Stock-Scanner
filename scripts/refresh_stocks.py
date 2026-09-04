@@ -132,6 +132,37 @@ def fetch_via_yfinance(yf_symbol: str) -> dict:
     return out
 
 
+def _ymd_to_str(ts_ms) -> str:
+    import datetime as _dt
+    return _dt.datetime.utcfromtimestamp(ts_ms / 1000).strftime("%Y-%m-%d")
+
+
+def fetch_via_http_v8(yf_symbol: str) -> dict:
+    """Fallback using chart v8 with period1/period2 to get 1y price + fundamentals
+    from the chart meta (only `regularMarketPrice` is reliably present)."""
+    out: dict = {
+        "rev_q": [None] * 4,
+        "ebd_q": [None] * 4,
+        "pat_q": [None] * 4,
+        "margin": None,
+        "price": None,
+    }
+    url = (
+        f"https://query1.finance.yahoo.com/v8/finance/chart/{urllib.parse.quote(yf_symbol)}"
+        "?interval=1d&range=1y"
+    )
+    data = http_get_json(url)
+    if data and data.get("chart", {}).get("result"):
+        meta = (data["chart"]["result"][0] or {}).get("meta", {}) or {}
+        p = meta.get("regularMarketPrice") or meta.get("previousClose")
+        if p is not None:
+            try:
+                out["price"] = round(float(p), 2)
+            except (TypeError, ValueError):
+                pass
+    return out
+
+
 def fetch_via_http(yf_symbol: str) -> dict:
     """Direct HTTP fallback against Yahoo's chart API (more reliable from cloud IPs)."""
     out: dict = {
@@ -196,7 +227,8 @@ def refresh_one(entry: dict) -> dict:
     attempts = []
     for attempt_fn, name in [
         (lambda: fetch_via_yfinance(yf_symbol), "yfinance"),
-        (lambda: fetch_via_http(yf_symbol), "http"),
+        (lambda: fetch_via_http(yf_symbol), "http-summary"),
+        (lambda: fetch_via_http_v8(yf_symbol), "http-v8"),
     ]:
         try:
             data = attempt_fn()
@@ -208,14 +240,12 @@ def refresh_one(entry: dict) -> dict:
             data["margin"] is not None, data["price"] is not None
         ]):
             attempts.append(data)
-            # keep going if everything is still null after first pass
             non_null = sum(1 for v in [data["price"], data["margin"]] if v is not None)
             non_null += sum(1 for q in [data["rev_q"], data["ebd_q"], data["pat_q"]] for v in q if v is not None)
-            if non_null >= 3:
+            if non_null >= 4:
                 break
         time.sleep(0.3)
 
-    # Merge: prefer http fallback values when yfinance left them null
     if len(attempts) >= 2:
         merged = dict(attempts[0])
         for k in ["rev_q", "ebd_q", "pat_q", "margin", "price"]:
@@ -224,6 +254,14 @@ def refresh_one(entry: dict) -> dict:
                 merged[k] = [a if a is not None else b for a, b in zip(v0 or [None]*4, v1 or [None]*4)]
             else:
                 merged[k] = v0 if v0 is not None else v1
+        if len(attempts) >= 3:
+            v2 = attempts[2]
+            for k in ["rev_q", "ebd_q", "pat_q", "margin", "price"]:
+                v0 = merged.get(k)
+                if k in ("rev_q", "ebd_q", "pat_q"):
+                    merged[k] = [a if a is not None else b for a, b in zip(v0 or [None]*4, v2.get(k) or [None]*4)]
+                else:
+                    merged[k] = v0 if v0 is not None else v2.get(k)
         data = merged
     elif attempts:
         data = attempts[0]
