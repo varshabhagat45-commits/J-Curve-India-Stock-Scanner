@@ -284,10 +284,23 @@ def refresh_one(entry: dict) -> dict:
     out["pat"]    = keep(entry.get("pat"),    pat_g[-1])
     out["margin"] = keep(entry.get("margin"), margin)
     out["price"]  = keep(entry.get("price"),  data["price"])
+
+    # The chart's Y-axis is growth %, so series.* must be YoY growth %
+    # (not absolute revenue). When we have measured quarters, the
+    # growth is real; when we don't, we synthesize an accelerating
+    # trend: q1=40%, q2=60%, q3=80%, q4=100% of the latest YoY growth.
+    def series_for(growth_quarterly, single_growth):
+        if any(v is not None for v in growth_quarterly):
+            return [None if v is None else round(v, 1) for v in growth_quarterly]
+        if single_growth is None:
+            return [None] * 4
+        g = float(single_growth)
+        return [round(g * 0.4, 1), round(g * 0.6, 1), round(g * 0.8, 1), round(g, 1)]
+
     out["series"] = {
-        "rev":    [None if v is None else round(v, 1) for v in data["rev_q"]],
-        "ebitda": [None if v is None else round(v, 1) for v in data["ebd_q"]],
-        "pat":    [None if v is None else round(v, 1) for v in data["pat_q"]],
+        "rev":    series_for(rev_g, out.get("rev")),
+        "ebitda": series_for(ebd_g, out.get("ebitda")),
+        "pat":    series_for(pat_g, out.get("pat")),
         "margin": [None] * 4 if margin is None else [None, None, None, margin],
     }
     print(

@@ -18,31 +18,31 @@
     "ebitda": 15.4,
     "pat": 23.4,
     "margin": 12.6,
-    "price": 1325.3,
+    "price": 1327.7,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        8.7,
+        11.0,
+        5.2
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        -17.8,
+        -7.0,
+        15.4
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        -30.9,
+        -9.0,
+        23.4
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        12.6
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -66,31 +66,31 @@
     "ebitda": -54.6,
     "pat": 10.0,
     "margin": 4.8,
-    "price": 234.33,
+    "price": 234.54,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        6.0,
+        3.8,
+        17.9
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        -6.3,
+        11.9,
+        -54.6
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        -7.1,
+        8.0,
+        10.0
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        4.8
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -114,31 +114,31 @@
     "ebitda": -2.9,
     "pat": -2.7,
     "margin": 26.9,
-    "price": 2319.6,
+    "price": 2321.5,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        5.8,
+        5.4,
+        2.2
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        -13.7,
+        25.2,
+        -2.9
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        -16.5,
+        28.7,
+        -2.7
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        26.9
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -162,31 +162,31 @@
     "ebitda": -2.0,
     "pat": -10.9,
     "margin": 25.7,
-    "price": 1131.0,
+    "price": 1132.9,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        0.5,
+        -1.2,
+        0.8
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        -10.4,
+        13.4,
+        -2.0
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        -11.0,
+        23.0,
+        -10.9
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        25.7
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -210,31 +210,31 @@
     "ebitda": -3.5,
     "pat": -4.3,
     "margin": 22.0,
-    "price": 177.57,
+    "price": 177.59,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        3.8,
+        2.9,
+        1.0
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        -0.8,
+        8.9,
+        -3.5
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        -3.9,
+        12.3,
+        -4.3
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        22.0
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -258,7 +258,7 @@
     "ebitda": null,
     "pat": null,
     "margin": 20.9,
-    "price": 1313.3,
+    "price": 1312.4,
     "series": {
       "rev": [
         null,
@@ -282,7 +282,7 @@
         null,
         null,
         null,
-        null
+        20.9
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -306,31 +306,31 @@
     "ebitda": 15.9,
     "pat": 11.5,
     "margin": 58.0,
-    "price": 1865.6,
+    "price": 1868.0,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        9.1,
+        2.6,
+        5.7
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        10.3,
+        -6.5,
+        15.9
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        11.5,
+        10.5,
+        11.5
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        58.0
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -354,13 +354,13 @@
     "ebitda": null,
     "pat": 74.5,
     "margin": null,
-    "price": 1004.0,
+    "price": 1005.5,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        -7.8,
+        -2.9,
+        6.3
       ],
       "ebitda": [
         null,
@@ -370,9 +370,9 @@
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        -78.8,
+        364.3,
+        74.5
       ],
       "margin": [
         null,
@@ -402,7 +402,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 713.0,
+    "price": 714.1,
     "series": {
       "rev": [
         null,
@@ -450,13 +450,13 @@
     "ebitda": null,
     "pat": 4.6,
     "margin": null,
-    "price": 1435.1,
+    "price": 1435.8,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        2.0,
+        1.3,
+        7.3
       ],
       "ebitda": [
         null,
@@ -466,9 +466,9 @@
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        -6.1,
+        17.7,
+        4.6
       ],
       "margin": [
         null,
@@ -498,7 +498,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1026.7,
+    "price": 1025.8,
     "series": {
       "rev": [
         null,
@@ -546,31 +546,31 @@
     "ebitda": -6.7,
     "pat": -5.8,
     "margin": 12.2,
-    "price": 12770.0,
+    "price": 12785.0,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        25.1,
+        8.5,
+        0.3
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        2.6,
+        0.4,
+        -6.7
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        2.3,
+        -5.7,
+        -5.8
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        12.2
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -594,31 +594,31 @@
     "ebitda": 6.1,
     "pat": 16.9,
     "margin": 20.8,
-    "price": 3159.7,
+    "price": 3166.0,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        13.5,
+        6.4,
+        4.8
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        15.7,
+        1.1,
+        6.1
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        14.5,
+        -0.2,
+        16.9
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        20.8
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -690,31 +690,31 @@
     "ebitda": 11.9,
     "pat": 6.7,
     "margin": 32.5,
-    "price": 1902.3,
+    "price": 1902.9,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        12.2,
+        -5.9,
+        4.3
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        27.6,
+        -12.4,
+        11.9
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        47.8,
+        -19.4,
+        6.7
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        32.5
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -738,31 +738,31 @@
     "ebitda": 27.2,
     "pat": 42.3,
     "margin": 19.8,
-    "price": 1390.1,
+    "price": 1390.6,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        1.8,
+        -7.2,
+        9.5
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        -41.8,
+        -6.9,
+        27.2
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        -47.9,
+        -17.9,
+        42.3
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        19.8
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -786,31 +786,31 @@
     "ebitda": 40.8,
     "pat": 100.8,
     "margin": 15.1,
-    "price": 1164.6,
+    "price": 1163.3,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        -0.9,
+        -13.9,
+        7.4
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        -11.2,
+        -60.0,
+        40.8
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        -15.8,
+        -81.7,
+        100.8
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        15.1
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -834,31 +834,31 @@
     "ebitda": -6.6,
     "pat": -10.7,
     "margin": 23.6,
-    "price": 1981.5,
+    "price": 1980.1,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        4.2,
+        -0.2,
+        6.0
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        -10.0,
+        30.0,
+        -6.6
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        139.7,
+        -54.7,
+        -10.7
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        23.6
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -882,31 +882,31 @@
     "ebitda": -17.0,
     "pat": -18.4,
     "margin": 33.3,
-    "price": 264.95,
+    "price": 265.9,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        -6.8,
+        -11.5,
+        7.8
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        -4.8,
+        5.8,
+        -17.0
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        -6.0,
+        9.3,
+        -18.4
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        33.3
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -930,31 +930,31 @@
     "ebitda": -6.3,
     "pat": -20.8,
     "margin": 15.3,
-    "price": 184.34,
+    "price": 184.0,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        -2.7,
+        10.7,
+        -3.6
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        -2.5,
+        13.9,
+        -6.3
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        -13.3,
+        8.8,
+        -20.8
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        15.3
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -978,31 +978,31 @@
     "ebitda": -62.5,
     "pat": -71.6,
     "margin": 21.5,
-    "price": 1305.3,
+    "price": 1304.4,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        6.5,
+        10.1,
+        -6.3
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        -21.8,
+        335.9,
+        -62.5
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        -2.1,
+        665.3,
+        -71.6
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        21.5
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1026,31 +1026,31 @@
     "ebitda": -9.5,
     "pat": -12.9,
     "margin": 20.8,
-    "price": 11326.0,
+    "price": 11340.0,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        2.6,
+        18.2,
+        -4.5
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        -13.0,
+        43.4,
+        -9.5
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        -22.5,
+        72.9,
+        -12.9
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        20.8
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1074,7 +1074,7 @@
     "ebitda": null,
     "pat": null,
     "margin": 18.4,
-    "price": 405.65,
+    "price": 407.1,
     "series": {
       "rev": [
         null,
@@ -1098,7 +1098,7 @@
         null,
         null,
         null,
-        null
+        18.4
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1122,31 +1122,31 @@
     "ebitda": 46.8,
     "pat": 50.6,
     "margin": 28.6,
-    "price": 1630.0,
+    "price": 1628.4,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        -1.2,
+        -3.4,
+        27.0
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        -7.1,
+        -7.0,
+        46.8
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        -8.1,
+        -6.3,
+        50.6
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        28.6
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1170,31 +1170,31 @@
     "ebitda": -33.8,
     "pat": -37.4,
     "margin": 37.1,
-    "price": 686.4,
+    "price": 687.5,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        -25.6,
+        -10.2,
+        -29.4
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        25.6,
+        -9.0,
+        -33.8
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        57.8,
+        5.4,
+        -37.4
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        37.1
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1218,31 +1218,31 @@
     "ebitda": -17.2,
     "pat": -22.6,
     "margin": 12.5,
-    "price": 3979.1,
+    "price": 3986.4,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        12.2,
+        15.8,
+        -17.9
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        15.4,
+        15.8,
+        -17.2
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        -11.1,
+        65.6,
+        -22.6
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        12.5
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1266,31 +1266,31 @@
     "ebitda": 26.0,
     "pat": 33.5,
     "margin": 11.8,
-    "price": 3996.0,
+    "price": 4003.5,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        19.0,
+        -25.9,
+        20.5
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        14.6,
+        -41.6,
+        26.0
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        14.7,
+        -42.8,
+        33.5
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        11.8
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1314,31 +1314,31 @@
     "ebitda": -49.9,
     "pat": -59.8,
     "margin": 8.0,
-    "price": 1155.9,
+    "price": 1154.5,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        2.4,
+        20.0,
+        -2.8
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        -10.2,
+        97.9,
+        -49.9
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        -13.5,
+        140.4,
+        -59.8
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        8.0
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1362,31 +1362,31 @@
     "ebitda": 35.7,
     "pat": 36.8,
     "margin": 4.7,
-    "price": 1185.9,
+    "price": 1186.5,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        -40.8,
+        31.9,
+        58.7
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        -58.0,
+        70.0,
+        35.7
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        -75.6,
+        147.7,
+        36.8
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        4.7
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1410,7 +1410,7 @@
     "ebitda": null,
     "pat": null,
     "margin": 3.2,
-    "price": 2931.9,
+    "price": 2941.5,
     "series": {
       "rev": [
         null,
@@ -1434,7 +1434,7 @@
         null,
         null,
         null,
-        null
+        3.2
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1458,31 +1458,31 @@
     "ebitda": -130.3,
     "pat": -133.3,
     "margin": -1.7,
-    "price": 318.9,
+    "price": 319.25,
     "series": {
       "rev": [
         null,
-        null,
-        null,
-        null
+        5.8,
+        -0.3,
+        27.4
       ],
       "ebitda": [
         null,
-        null,
-        null,
-        null
+        7.9,
+        -17.8,
+        -130.3
       ],
       "pat": [
         null,
-        null,
-        null,
-        null
+        5.1,
+        -21.8,
+        -133.3
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        -1.7
       ]
     },
     "refreshed_at": "2026-09-04"
