@@ -39,9 +39,13 @@ async function loadJCurve(url) {
 }
 
 async function loadSector(url) {
-  // Returns a map { SYMBOL: { score, momentum, action, reason } }
-  // 1) Try the configured URL
-  // 2) On any failure, fall back to a local snapshot baked into the site
+  // Returns a map { SYMBOL: { score, momentum, action, reason, source } }.
+  // 1) Try the configured URL.
+  // 2) Fall back to a local snapshot.
+  // Supports two response shapes:
+  //   A) Flat array of { symbol, score, momentum, action, reason }
+  //   B) SectorScreenWeb nested: { as_of, sectors: { "Pharma": { modes: { quality_first: [...] } } } }
+  //      → flattened; each row gets q_score, mom_score, composite, category.
   try {
     const r = await fetch(url, { cache: "no-store" });
     if (r.ok) {
@@ -65,20 +69,46 @@ async function loadSector(url) {
 }
 
 function sectorArrayToMap(j) {
-  const arr = Array.isArray(j) ? j
-            : Array.isArray(j.scores) ? j.scores
-            : Array.isArray(j.data) ? j.data
-            : Array.isArray(j.result) ? j.result
-            : [];
+  // Shape A: flat list
+  if (Array.isArray(j)) return flatListToMap(j);
+  // Shape B: SectorScreenWeb nested (has "sectors" key)
+  if (j && j.sectors && typeof j.sectors === "object") {
+    const all = [];
+    for (const sector of Object.values(j.sectors)) {
+      const modes = sector.modes || {};
+      // Prefer quality_first (richer scoring), fall back to strict.
+      const rows = modes.quality_first || modes.strict || [];
+      for (const r of rows) {
+        all.push({
+          symbol: (r.ticker || "").replace(/\.NS$/i, "").toUpperCase(),
+          score: r.composite ?? r.q_score ?? null,
+          momentum: r.mom_score ?? null,
+          action: r.category || null,
+          reason: r.company || null,
+          as_of: j.as_of || null,
+          mode: modes.quality_first ? "quality_first" : "strict",
+        });
+      }
+    }
+    return flatListToMap(all);
+  }
+  // Shape C: { scores: [...] } or { data: [...] }
+  if (j && Array.isArray(j.scores)) return flatListToMap(j.scores);
+  if (j && Array.isArray(j.data))    return flatListToMap(j.data);
+  return {};
+}
+
+function flatListToMap(arr) {
   const out = {};
   for (const row of arr) {
-    const sym = (row.symbol || row.ticker || row.sym || "").toUpperCase();
+    const sym = (row.symbol || row.ticker || row.sym || "").toUpperCase().replace(/\.NS$/i, "");
     if (!sym) continue;
     out[sym] = {
-      score: row.score ?? row.quality ?? null,
-      momentum: row.momentum ?? row.trend ?? null,
-      action: row.action ?? row.rating ?? null,
-      reason: row.reason ?? row.note ?? null,
+      score: row.score ?? row.quality ?? row.composite ?? row.q_score ?? null,
+      momentum: row.momentum ?? row.trend ?? row.mom_score ?? null,
+      action: row.action ?? row.rating ?? row.category ?? null,
+      reason: row.reason ?? row.note ?? row.company ?? null,
+      as_of: row.as_of || null,
     };
   }
   return out;

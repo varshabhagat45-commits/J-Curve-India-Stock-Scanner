@@ -1,7 +1,7 @@
 {
   "sectorScreen": {
-    "url": "data/sector-snapshot.json",
-    "note": "Edit this to point at your real Sector-Screen API when ready (e.g. https://sector-screen-web.vercel.app/api/scores.json). For now we read the local snapshot."
+    "url": "https://raw.githubusercontent.com/varshabhagat45-commits/SectorScreenWeb/main/site/data/sectors.json",
+    "note": "Fetches real 47-criterion Sector-Screen data directly from the SectorScreenWeb GitHub repo. The nested {sectors: {...}} format is auto-flattened by app.js."
   },
   "jcurve": {
     "url": "https://raw.githubusercontent.com/varshabhagat45-commits/J-Curve-India-Stock-Scanner/main/data/stocks.json"
