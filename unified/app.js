@@ -185,6 +185,7 @@ function buildRows() {
       symbol: j.symbol,
       company: j.name || j.symbol,
       sector: j.sector || "—",
+      subIndustry: j.subIndustry || j.sector || "—",
       stage: j.stage,
       jScore: j.score,
       ssScore: s?.score ?? null,
@@ -204,16 +205,16 @@ function buildRows() {
 }
 
 function populateSectorFilter() {
-  const sectors = [...new Set(STATE.rows.map((r) => r.sector))].sort();
+  const sectors = [...new Set(STATE.rows.map((r) => r.subIndustry))].sort();
   const sel = $("sector");
-  sel.innerHTML = '<option value="">All sectors</option>' +
+  sel.innerHTML = '<option value="">All sub-industries</option>' +
     sectors.map((s) => `<option value="${escape(s)}">${escape(s)}</option>`).join("");
 }
 
 function passesFilter(r) {
   const q = STATE.filter.search.toLowerCase();
   if (q && !(r.symbol.toLowerCase().includes(q) || r.company.toLowerCase().includes(q))) return false;
-  if (STATE.filter.sector && r.sector !== STATE.filter.sector) return false;
+  if (STATE.filter.sector && r.subIndustry !== STATE.filter.sector) return false;
   if (STATE.filter.verdict && r.verdict !== STATE.filter.verdict) return false;
   return true;
 }
@@ -253,7 +254,10 @@ function render() {
     return `
       <tr data-sym="${escape(r.symbol)}">
         <td><b>${escape(r.symbol)}</b></td>
-        <td>${escape(r.company)}</td>
+        <td>
+          <div>${escape(r.company)}</div>
+          <div class="muted" style="font-size:11px">${escape(r.subIndustry)}</div>
+        </td>
         <td>${escape(r.sector)}</td>
         <td>
           <span class="score-pill ${verdictClass(r.verdict)}">${escape(jPill)}</span>
