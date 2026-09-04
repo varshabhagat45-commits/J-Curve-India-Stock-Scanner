@@ -1,0 +1,15 @@
+{
+  "sectorScreen": {
+    "url": "data/sector-snapshot.json",
+    "note": "Edit this to point at your real Sector-Screen API when ready (e.g. https://sector-screen-web.vercel.app/api/scores.json). For now we read the local snapshot."
+  },
+  "jcurve": {
+    "url": "https://raw.githubusercontent.com/varshabhagat45-commits/J-Curve-India-Stock-Scanner/main/data/stocks.json"
+  },
+  "verdictRules": {
+    "BUY":   "J-Curve stage 2 + score >= 75, and not flagged by Sector-Screen",
+    "WATCH": "J-Curve stage 1 with score 65-79, or stage 2 with mixed Sector-Screen signal",
+    "HOLD":  "J-Curve stage 3 (already re-rated) or strong Sector-Screen with weak J-Curve",
+    "AVOID": "J-Curve score < 60, or redFlags present, or Sector-Screen flagging decline"
+  }
+}
