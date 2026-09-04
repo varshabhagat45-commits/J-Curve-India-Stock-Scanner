@@ -18,31 +18,31 @@
     "ebitda": 15.4,
     "pat": 23.4,
     "margin": 12.6,
-    "price": 1330.9,
+    "price": 1329.5,
     "series": {
       "rev": [
-        2.1,
-        3.1,
-        4.2,
+        null,
+        8.7,
+        11.0,
         5.2
       ],
       "ebitda": [
-        6.2,
-        9.2,
-        12.3,
+        null,
+        -17.8,
+        -7.0,
         15.4
       ],
       "pat": [
-        9.4,
-        14.0,
-        18.7,
+        null,
+        -30.9,
+        -9.0,
         23.4
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        12.6
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -66,23 +66,23 @@
     "ebitda": -54.6,
     "pat": 10.0,
     "margin": 4.8,
-    "price": 234.22,
+    "price": 234.71,
     "series": {
       "rev": [
-        7.2,
-        10.7,
-        14.3,
+        null,
+        6.0,
+        3.8,
         17.9
       ],
       "ebitda": [
-        -21.8,
-        -32.8,
-        -43.7,
+        null,
+        -6.3,
+        11.9,
         -54.6
       ],
       "pat": [
-        4.0,
-        6.0,
+        null,
+        -7.1,
         8.0,
         10.0
       ],
@@ -90,7 +90,7 @@
         null,
         null,
         null,
-        null
+        4.8
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -114,31 +114,31 @@
     "ebitda": -2.9,
     "pat": -2.7,
     "margin": 26.9,
-    "price": 2321.0,
+    "price": 2320.5,
     "series": {
       "rev": [
-        0.9,
-        1.3,
-        1.8,
+        null,
+        5.8,
+        5.4,
         2.2
       ],
       "ebitda": [
-        -1.2,
-        -1.7,
-        -2.3,
+        null,
+        -13.7,
+        25.2,
         -2.9
       ],
       "pat": [
-        -1.1,
-        -1.6,
-        -2.2,
+        null,
+        -16.5,
+        28.7,
         -2.7
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        26.9
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -162,31 +162,31 @@
     "ebitda": -2.0,
     "pat": -10.9,
     "margin": 25.7,
-    "price": 1132.5,
+    "price": 1131.8,
     "series": {
       "rev": [
-        0.3,
+        null,
         0.5,
-        0.6,
+        -1.2,
         0.8
       ],
       "ebitda": [
-        -0.8,
-        -1.2,
-        -1.6,
+        null,
+        -10.4,
+        13.4,
         -2.0
       ],
       "pat": [
-        -4.4,
-        -6.5,
-        -8.7,
+        null,
+        -11.0,
+        23.0,
         -10.9
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        25.7
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -210,31 +210,31 @@
     "ebitda": -3.5,
     "pat": -4.3,
     "margin": 22.0,
-    "price": 177.79,
+    "price": 178.03,
     "series": {
       "rev": [
-        0.4,
-        0.6,
-        0.8,
+        null,
+        3.8,
+        2.9,
         1.0
       ],
       "ebitda": [
-        -1.4,
-        -2.1,
-        -2.8,
+        null,
+        -0.8,
+        8.9,
         -3.5
       ],
       "pat": [
-        -1.7,
-        -2.6,
-        -3.4,
+        null,
+        -3.9,
+        12.3,
         -4.3
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        22.0
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -258,7 +258,7 @@
     "ebitda": null,
     "pat": null,
     "margin": 20.9,
-    "price": 1308.8,
+    "price": 1303.5,
     "series": {
       "rev": [
         null,
@@ -282,7 +282,7 @@
         null,
         null,
         null,
-        null
+        20.9
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -306,31 +306,31 @@
     "ebitda": 15.9,
     "pat": 11.5,
     "margin": 58.0,
-    "price": 1862.0,
+    "price": 1854.6,
     "series": {
       "rev": [
-        2.3,
-        3.4,
-        4.6,
+        null,
+        9.1,
+        2.6,
         5.7
       ],
       "ebitda": [
-        6.4,
-        9.5,
-        12.7,
+        null,
+        10.3,
+        -6.5,
         15.9
       ],
       "pat": [
-        4.6,
-        6.9,
-        9.2,
+        null,
+        11.5,
+        10.5,
         11.5
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        58.0
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -354,12 +354,12 @@
     "ebitda": null,
     "pat": 74.5,
     "margin": null,
-    "price": 1004.7,
+    "price": 1000.4,
     "series": {
       "rev": [
-        2.5,
-        3.8,
-        5.0,
+        null,
+        -7.8,
+        -2.9,
         6.3
       ],
       "ebitda": [
@@ -369,9 +369,9 @@
         null
       ],
       "pat": [
-        29.8,
-        44.7,
-        59.6,
+        null,
+        -78.8,
+        364.3,
         74.5
       ],
       "margin": [
@@ -402,7 +402,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 715.35,
+    "price": 715.1,
     "series": {
       "rev": [
         null,
@@ -450,12 +450,12 @@
     "ebitda": null,
     "pat": 4.6,
     "margin": null,
-    "price": 1431.7,
+    "price": 1431.3,
     "series": {
       "rev": [
-        2.9,
-        4.4,
-        5.8,
+        null,
+        2.0,
+        1.3,
         7.3
       ],
       "ebitda": [
@@ -465,9 +465,9 @@
         null
       ],
       "pat": [
-        1.8,
-        2.8,
-        3.7,
+        null,
+        -6.1,
+        17.7,
         4.6
       ],
       "margin": [
@@ -498,7 +498,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1024.3,
+    "price": 1022.7,
     "series": {
       "rev": [
         null,
@@ -546,31 +546,31 @@
     "ebitda": -6.7,
     "pat": -5.8,
     "margin": 12.2,
-    "price": 12777.0,
+    "price": 12730.0,
     "series": {
       "rev": [
-        0.1,
-        0.2,
-        0.2,
+        null,
+        25.1,
+        8.5,
         0.3
       ],
       "ebitda": [
-        -2.7,
-        -4.0,
-        -5.4,
+        null,
+        2.6,
+        0.4,
         -6.7
       ],
       "pat": [
-        -2.3,
-        -3.5,
-        -4.6,
+        null,
+        2.3,
+        -5.7,
         -5.8
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        12.2
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -594,31 +594,31 @@
     "ebitda": 6.1,
     "pat": 16.9,
     "margin": 20.8,
-    "price": 3165.2,
+    "price": 3164.4,
     "series": {
       "rev": [
-        1.9,
-        2.9,
-        3.8,
+        null,
+        13.5,
+        6.4,
         4.8
       ],
       "ebitda": [
-        2.4,
-        3.7,
-        4.9,
+        null,
+        15.7,
+        1.1,
         6.1
       ],
       "pat": [
-        6.8,
-        10.1,
-        13.5,
+        null,
+        14.5,
+        -0.2,
         16.9
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        20.8
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -690,31 +690,31 @@
     "ebitda": 11.9,
     "pat": 6.7,
     "margin": 32.5,
-    "price": 1904.1,
+    "price": 1901.5,
     "series": {
       "rev": [
-        1.7,
-        2.6,
-        3.4,
+        null,
+        12.2,
+        -5.9,
         4.3
       ],
       "ebitda": [
-        4.8,
-        7.1,
-        9.5,
+        null,
+        27.6,
+        -12.4,
         11.9
       ],
       "pat": [
-        2.7,
-        4.0,
-        5.4,
+        null,
+        47.8,
+        -19.4,
         6.7
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        32.5
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -738,31 +738,31 @@
     "ebitda": 27.2,
     "pat": 42.3,
     "margin": 19.8,
-    "price": 1387.0,
+    "price": 1380.9,
     "series": {
       "rev": [
-        3.8,
-        5.7,
-        7.6,
+        null,
+        1.8,
+        -7.2,
         9.5
       ],
       "ebitda": [
-        10.9,
-        16.3,
-        21.8,
+        null,
+        -41.8,
+        -6.9,
         27.2
       ],
       "pat": [
-        16.9,
-        25.4,
-        33.8,
+        null,
+        -47.9,
+        -17.9,
         42.3
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        19.8
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -786,31 +786,31 @@
     "ebitda": 40.8,
     "pat": 100.8,
     "margin": 15.1,
-    "price": 1162.7,
+    "price": 1162.6,
     "series": {
       "rev": [
-        3.0,
-        4.4,
-        5.9,
+        null,
+        -0.9,
+        -13.9,
         7.4
       ],
       "ebitda": [
-        16.3,
-        24.5,
-        32.6,
+        null,
+        -11.2,
+        -60.0,
         40.8
       ],
       "pat": [
-        40.3,
-        60.5,
-        80.6,
+        null,
+        -15.8,
+        -81.7,
         100.8
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        15.1
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -834,31 +834,31 @@
     "ebitda": -6.6,
     "pat": -10.7,
     "margin": 23.6,
-    "price": 1980.2,
+    "price": 1978.5,
     "series": {
       "rev": [
-        2.4,
-        3.6,
-        4.8,
+        null,
+        4.2,
+        -0.2,
         6.0
       ],
       "ebitda": [
-        -2.6,
-        -4.0,
-        -5.3,
+        null,
+        -10.0,
+        30.0,
         -6.6
       ],
       "pat": [
-        -4.3,
-        -6.4,
-        -8.6,
+        null,
+        139.7,
+        -54.7,
         -10.7
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        23.6
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -882,31 +882,31 @@
     "ebitda": -17.0,
     "pat": -18.4,
     "margin": 33.3,
-    "price": 265.15,
+    "price": 264.15,
     "series": {
       "rev": [
-        3.1,
-        4.7,
-        6.2,
+        null,
+        -6.8,
+        -11.5,
         7.8
       ],
       "ebitda": [
-        -6.8,
-        -10.2,
-        -13.6,
+        null,
+        -4.8,
+        5.8,
         -17.0
       ],
       "pat": [
-        -7.4,
-        -11.0,
-        -14.7,
+        null,
+        -6.0,
+        9.3,
         -18.4
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        33.3
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -930,31 +930,31 @@
     "ebitda": -6.3,
     "pat": -20.8,
     "margin": 15.3,
-    "price": 183.27,
+    "price": 183.97,
     "series": {
       "rev": [
-        -1.4,
-        -2.2,
-        -2.9,
+        null,
+        -2.7,
+        10.7,
         -3.6
       ],
       "ebitda": [
+        null,
         -2.5,
-        -3.8,
-        -5.0,
+        13.9,
         -6.3
       ],
       "pat": [
-        -8.3,
-        -12.5,
-        -16.6,
+        null,
+        -13.3,
+        8.8,
         -20.8
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        15.3
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -978,31 +978,31 @@
     "ebitda": -62.5,
     "pat": -71.6,
     "margin": 21.5,
-    "price": 1302.7,
+    "price": 1304.2,
     "series": {
       "rev": [
-        -2.5,
-        -3.8,
-        -5.0,
+        null,
+        6.5,
+        10.1,
         -6.3
       ],
       "ebitda": [
-        -25.0,
-        -37.5,
-        -50.0,
+        null,
+        -21.8,
+        335.9,
         -62.5
       ],
       "pat": [
-        -28.6,
-        -43.0,
-        -57.3,
+        null,
+        -2.1,
+        665.3,
         -71.6
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        21.5
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1026,31 +1026,31 @@
     "ebitda": -9.5,
     "pat": -12.9,
     "margin": 20.8,
-    "price": 11339.0,
+    "price": 11304.0,
     "series": {
       "rev": [
-        -1.8,
-        -2.7,
-        -3.6,
+        null,
+        2.6,
+        18.2,
         -4.5
       ],
       "ebitda": [
-        -3.8,
-        -5.7,
-        -7.6,
+        null,
+        -13.0,
+        43.4,
         -9.5
       ],
       "pat": [
-        -5.2,
-        -7.7,
-        -10.3,
+        null,
+        -22.5,
+        72.9,
         -12.9
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        20.8
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1074,7 +1074,7 @@
     "ebitda": null,
     "pat": null,
     "margin": 18.4,
-    "price": 407.5,
+    "price": 405.2,
     "series": {
       "rev": [
         null,
@@ -1098,7 +1098,7 @@
         null,
         null,
         null,
-        null
+        18.4
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1122,31 +1122,31 @@
     "ebitda": 46.8,
     "pat": 50.6,
     "margin": 28.6,
-    "price": 1632.7,
+    "price": 1632.6,
     "series": {
       "rev": [
-        10.8,
-        16.2,
-        21.6,
+        null,
+        -1.2,
+        -3.4,
         27.0
       ],
       "ebitda": [
-        18.7,
-        28.1,
-        37.4,
+        null,
+        -7.1,
+        -7.0,
         46.8
       ],
       "pat": [
-        20.2,
-        30.4,
-        40.5,
+        null,
+        -8.1,
+        -6.3,
         50.6
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        28.6
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1170,31 +1170,31 @@
     "ebitda": -33.8,
     "pat": -37.4,
     "margin": 37.1,
-    "price": 687.6,
+    "price": 684.5,
     "series": {
       "rev": [
-        -11.8,
-        -17.6,
-        -23.5,
+        null,
+        -25.6,
+        -10.2,
         -29.4
       ],
       "ebitda": [
-        -13.5,
-        -20.3,
-        -27.0,
+        null,
+        25.6,
+        -9.0,
         -33.8
       ],
       "pat": [
-        -15.0,
-        -22.4,
-        -29.9,
+        null,
+        57.8,
+        5.4,
         -37.4
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        37.1
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1218,31 +1218,31 @@
     "ebitda": -17.2,
     "pat": -22.6,
     "margin": 12.5,
-    "price": 3988.6,
+    "price": 3979.3,
     "series": {
       "rev": [
-        -7.2,
-        -10.7,
-        -14.3,
+        null,
+        12.2,
+        15.8,
         -17.9
       ],
       "ebitda": [
-        -6.9,
-        -10.3,
-        -13.8,
+        null,
+        15.4,
+        15.8,
         -17.2
       ],
       "pat": [
-        -9.0,
-        -13.6,
-        -18.1,
+        null,
+        -11.1,
+        65.6,
         -22.6
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        12.5
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1266,31 +1266,31 @@
     "ebitda": 26.0,
     "pat": 33.5,
     "margin": 11.8,
-    "price": 4003.2,
+    "price": 3985.9,
     "series": {
       "rev": [
-        8.2,
-        12.3,
-        16.4,
+        null,
+        19.0,
+        -25.9,
         20.5
       ],
       "ebitda": [
-        10.4,
-        15.6,
-        20.8,
+        null,
+        14.6,
+        -41.6,
         26.0
       ],
       "pat": [
-        13.4,
-        20.1,
-        26.8,
+        null,
+        14.7,
+        -42.8,
         33.5
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        11.8
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1314,31 +1314,31 @@
     "ebitda": -49.9,
     "pat": -59.8,
     "margin": 8.0,
-    "price": 1158.0,
+    "price": 1152.8,
     "series": {
       "rev": [
-        -1.1,
-        -1.7,
-        -2.2,
+        null,
+        2.4,
+        20.0,
         -2.8
       ],
       "ebitda": [
-        -20.0,
-        -29.9,
-        -39.9,
+        null,
+        -10.2,
+        97.9,
         -49.9
       ],
       "pat": [
-        -23.9,
-        -35.9,
-        -47.8,
+        null,
+        -13.5,
+        140.4,
         -59.8
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        8.0
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1362,31 +1362,31 @@
     "ebitda": 35.7,
     "pat": 36.8,
     "margin": 4.7,
-    "price": 1184.0,
+    "price": 1173.2,
     "series": {
       "rev": [
-        23.5,
-        35.2,
-        47.0,
+        null,
+        -40.8,
+        31.9,
         58.7
       ],
       "ebitda": [
-        14.3,
-        21.4,
-        28.6,
+        null,
+        -58.0,
+        70.0,
         35.7
       ],
       "pat": [
-        14.7,
-        22.1,
-        29.4,
+        null,
+        -75.6,
+        147.7,
         36.8
       ],
       "margin": [
         null,
         null,
         null,
-        null
+        4.7
       ]
     },
     "refreshed_at": "2026-09-04"
@@ -1410,7 +1410,201 @@
     "ebitda": null,
     "pat": null,
     "margin": 3.2,
-    "price": 2958.6,
+    "price": 2941.7,
+    "series": {
+      "rev": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "ebitda": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "pat": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        3.2
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "BPCL",
+    "yf": "BPCL.NS",
+    "name": "Bharat Petroleum",
+    "sector": "Oil & Gas",
+    "stage": 3,
+    "score": 68,
+    "trigger": "Refining margins normalizing from peak.",
+    "evidence": [
+      "GRM normalization",
+      "Marketing steady"
+    ],
+    "invalidation": "GRM compression.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 27.4,
+    "ebitda": -130.3,
+    "pat": -133.3,
+    "margin": -1.7,
+    "price": 317.75,
+    "series": {
+      "rev": [
+        null,
+        5.8,
+        -0.3,
+        27.4
+      ],
+      "ebitda": [
+        null,
+        7.9,
+        -17.8,
+        -130.3
+      ],
+      "pat": [
+        null,
+        5.1,
+        -21.8,
+        -133.3
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        -1.7
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "COFORGE",
+    "yf": "COFORGE.NS",
+    "name": "Coforge",
+    "sector": "IT Services",
+    "stage": 2,
+    "score": 78,
+    "trigger": "Strong TCV momentum in BFSI + travel; margin expanding with pyramid right-sizing.",
+    "evidence": [
+      "TCV growth strong",
+      "Margin recovery visible",
+      "BFSI deal wins"
+    ],
+    "invalidation": "Discretionary spend cuts in BFSI or US travel vertical weakness.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 24.2,
+    "ebitda": 21.9,
+    "pat": -15.3,
+    "margin": 18.6,
+    "price": 1976.3,
+    "series": {
+      "rev": [
+        null,
+        13.1,
+        6.3,
+        24.2
+      ],
+      "ebitda": [
+        null,
+        4.5,
+        41.7,
+        21.9
+      ],
+      "pat": [
+        null,
+        -21.2,
+        144.7,
+        -15.3
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        18.6
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "PERSISTENT",
+    "yf": "PERSISTENT.NS",
+    "name": "Persistent Systems",
+    "sector": "IT Services",
+    "stage": 2,
+    "score": 77,
+    "trigger": "AI-led deal wins; sustained revenue growth from BFSI/healthcare verticals.",
+    "evidence": [
+      "AI deal momentum",
+      "Healthcare vertical strong",
+      "Margin steady"
+    ],
+    "invalidation": "US BFSI demand softens materially.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 6.1,
+    "ebitda": -4.2,
+    "pat": -8.7,
+    "margin": 17.8,
+    "price": 5690.0,
+    "series": {
+      "rev": [
+        null,
+        13.3,
+        7.4,
+        6.1
+      ],
+      "ebitda": [
+        null,
+        2.7,
+        17.0,
+        -4.2
+      ],
+      "pat": [
+        null,
+        3.4,
+        20.4,
+        -8.7
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        17.8
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "LTIM",
+    "yf": "LTIM.NS",
+    "name": "LTIMindtree",
+    "sector": "IT Services",
+    "stage": 2,
+    "score": 74,
+    "trigger": "BFSI deal wins; margin guided to expand post merger integration.",
+    "evidence": [
+      "BFSI deal wins",
+      "Margin guidance positive"
+    ],
+    "invalidation": "Integration hiccups or BFSI slowdown.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": null,
+    "ebitda": null,
+    "pat": null,
+    "margin": null,
+    "price": null,
     "series": {
       "rev": [
         null,
@@ -1440,49 +1634,3080 @@
     "refreshed_at": "2026-09-04"
   },
   {
-    "symbol": "BPCL",
-    "yf": "BPCL.NS",
-    "name": "Bharat Petroleum",
-    "sector": "Oil & Gas",
-    "stage": 3,
-    "score": 68,
-    "trigger": "Refining margins normalizing from peak.",
+    "symbol": "MPHASIS",
+    "yf": "MPHASIS.NS",
+    "name": "Mphasis",
+    "sector": "IT Services",
+    "stage": 2,
+    "score": 72,
+    "trigger": "Direct-channel deal growth in BFSI; Blackstone sponsorship supporting sales motion.",
     "evidence": [
-      "GRM normalization",
-      "Marketing steady"
+      "Direct channel growing",
+      "BFSI exposure"
     ],
-    "invalidation": "GRM compression.",
-    "capacity": "n/a",
+    "invalidation": "BFSI discretionary spend cut.",
+    "capacity": null,
     "redFlags": [],
-    "rev": 27.4,
-    "ebitda": -130.3,
-    "pat": -133.3,
-    "margin": -1.7,
-    "price": 318.95,
+    "rev": 3.3,
+    "ebitda": -3.6,
+    "pat": -4.0,
+    "margin": 20.0,
+    "price": 2447.4,
     "series": {
       "rev": [
-        11.0,
-        16.4,
-        21.9,
-        27.4
+        null,
+        7.2,
+        6.0,
+        3.3
       ],
       "ebitda": [
-        -52.1,
-        -78.2,
-        -104.2,
-        -130.3
+        null,
+        -0.9,
+        17.3,
+        -3.6
       ],
       "pat": [
-        -53.3,
-        -80.0,
-        -106.6,
-        -133.3
+        null,
+        0.1,
+        15.3,
+        -4.0
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        20.0
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "TATAELXSI",
+    "yf": "TATAELXSI.NS",
+    "name": "Tata Elxsi",
+    "sector": "IT Services",
+    "stage": 2,
+    "score": 75,
+    "trigger": "Auto SDV + healthcare devices demand; design-led wins in EV/medical.",
+    "evidence": [
+      "Auto SDV wins",
+      "Healthcare devices",
+      "Premium pricing"
+    ],
+    "invalidation": "Auto OEM R&D cuts or healthcare device slowdown.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 2.8,
+    "ebitda": -12.8,
+    "pat": -22.6,
+    "margin": 25.2,
+    "price": 3577.0,
+    "series": {
+      "rev": [
+        null,
+        6.9,
+        4.2,
+        2.8
+      ],
+      "ebitda": [
+        null,
+        -23.4,
+        71.0,
+        -12.8
+      ],
+      "pat": [
+        null,
+        -24.6,
+        102.4,
+        -22.6
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        25.2
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "DIXON",
+    "yf": "DIXON.NS",
+    "name": "Dixon Technologies",
+    "sector": "Electronics / EMS",
+    "stage": 2,
+    "score": 80,
+    "trigger": "Mobile + IT hardware PLI wins; new verticals (laptops, hearables) ramping.",
+    "evidence": [
+      "PLI scheme tailwind",
+      "Multiple OEM wins",
+      "Margin expansion"
+    ],
+    "invalidation": "Major customer exits or PLI policy reversal.",
+    "capacity": "78%",
+    "redFlags": [],
+    "rev": 47.9,
+    "ebitda": 100.7,
+    "pat": 158.7,
+    "margin": 6.4,
+    "price": 14294.0,
+    "series": {
+      "rev": [
+        null,
+        -16.9,
+        -1.5,
+        47.9
+      ],
+      "ebitda": [
+        null,
+        12.8,
+        -10.0,
+        100.7
+      ],
+      "pat": [
+        null,
+        27.7,
+        -10.7,
+        158.7
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        6.4
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "KAYNES",
+    "yf": "KAYNES.NS",
+    "name": "Kaynes Technology",
+    "sector": "Electronics / EMS",
+    "stage": 2,
+    "score": 76,
+    "trigger": "New SMT lines commissioned; defence + railways verticals opening up.",
+    "evidence": [
+      "Capacity expansion",
+      "Defence orders",
+      "Railways tailwind"
+    ],
+    "invalidation": "Customer ramp slips beyond two quarters.",
+    "capacity": "70%",
+    "redFlags": [],
+    "rev": -23.9,
+    "ebitda": -31.2,
+    "pat": -38.1,
+    "margin": 17.1,
+    "price": 3583.3,
+    "series": {
+      "rev": [
+        null,
+        19.4,
+        54.6,
+        -23.9
+      ],
+      "ebitda": [
+        null,
+        15.3,
+        45.8,
+        -31.2
+      ],
+      "pat": [
+        null,
+        2.7,
+        19.0,
+        -38.1
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        17.1
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "POLYCAB",
+    "yf": "POLYCAB.NS",
+    "name": "Polycab India",
+    "sector": "Capital Goods & Engineering",
+    "stage": 2,
+    "score": 76,
+    "trigger": "Domestic cables + wires demand; exports growing; B2C brand premium intact.",
+    "evidence": [
+      "Cables demand strong",
+      "B2C brand premium"
+    ],
+    "invalidation": "Real estate/infra cycle stalls or copper volatility hurts margin.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": -7.4,
+    "ebitda": 1.6,
+    "pat": 1.5,
+    "margin": 15.1,
+    "price": 8302.0,
+    "series": {
+      "rev": [
+        null,
+        26.6,
+        18.6,
+        -7.4
+      ],
+      "ebitda": [
+        null,
+        7.3,
+        21.5,
+        1.6
+      ],
+      "pat": [
+        null,
+        5.0,
+        24.3,
+        1.5
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        15.1
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "KEI",
+    "yf": "KEI.NS",
+    "name": "KEI Industries",
+    "sector": "Capital Goods & Engineering",
+    "stage": 2,
+    "score": 74,
+    "trigger": "EHV cables + retail distribution scaling; order book strong.",
+    "evidence": [
+      "EHV order book",
+      "Retail distribution growing"
+    ],
+    "invalidation": "Commodity volatility or infra capex cycle stalls.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": -8.4,
+    "ebitda": -2.1,
+    "pat": -3.6,
+    "margin": 13.0,
+    "price": 4899.5,
+    "series": {
+      "rev": [
+        null,
+        14.1,
+        17.7,
+        -8.4
+      ],
+      "ebitda": [
+        null,
+        18.9,
+        19.9,
+        -2.1
+      ],
+      "pat": [
+        null,
+        20.0,
+        21.1,
+        -3.6
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        13.0
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "ASTRAL",
+    "yf": "ASTRAL.NS",
+    "name": "Astral",
+    "sector": "Chemicals",
+    "stage": 2,
+    "score": 74,
+    "trigger": "Plumbing + adhesives volume growth; new categories scaling.",
+    "evidence": [
+      "Plumbing volume growth",
+      "Adhesives steady"
+    ],
+    "invalidation": "Real estate demand stalls.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 35.5,
+    "ebitda": 67.0,
+    "pat": 97.8,
+    "margin": 18.1,
+    "price": 1489.7,
+    "series": {
+      "rev": [
+        null,
+        -19.0,
+        13.2,
+        35.5
+      ],
+      "ebitda": [
+        null,
+        -38.7,
+        19.4,
+        67.0
+      ],
+      "pat": [
+        null,
+        -54.8,
+        32.8,
+        97.8
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        18.1
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "CUMMINSIND",
+    "yf": "CUMMINSIND.NS",
+    "name": "Cummins India",
+    "sector": "Capital Goods & Engineering",
+    "stage": 2,
+    "score": 75,
+    "trigger": "Domestic infra + data-centre genset demand; export markets opening up.",
+    "evidence": [
+      "Data-centre demand",
+      "Domestic infra capex"
+    ],
+    "invalidation": "Capex cycle stalls or commodity costs spike.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 13.9,
+    "ebitda": -6.8,
+    "pat": -6.2,
+    "margin": 25.0,
+    "price": 5031.0,
+    "series": {
+      "rev": [
+        null,
+        5.2,
+        -1.4,
+        13.9
+      ],
+      "ebitda": [
+        null,
+        -18.5,
+        33.0,
+        -6.8
+      ],
+      "pat": [
+        null,
+        -19.5,
+        33.6,
+        -6.2
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        25.0
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "ABB",
+    "yf": "ABB.NS",
+    "name": "ABB India",
+    "sector": "Capital Goods & Engineering",
+    "stage": 2,
+    "score": 76,
+    "trigger": "Data-centre + electrification demand; motion + robotics order book strong.",
+    "evidence": [
+      "Data-centre orders",
+      "Motion business strong"
+    ],
+    "invalidation": "Industrial capex cycle weakens.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 11.3,
+    "ebitda": 6.2,
+    "pat": -79.7,
+    "margin": 15.3,
+    "price": 7404.0,
+    "series": {
+      "rev": [
+        null,
+        20.1,
+        -9.5,
+        11.3
+      ],
+      "ebitda": [
+        null,
+        24.3,
+        -18.4,
+        6.2
+      ],
+      "pat": [
+        null,
+        23.1,
+        312.1,
+        -79.7
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        15.3
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "POLICYBZR",
+    "yf": "POLICYBZR.NS",
+    "name": "PB Fintech",
+    "sector": "Financial Services",
+    "stage": 1,
+    "score": 65,
+    "trigger": "Insurance + credit growth; path to profitability clearer.",
+    "evidence": [
+      "Insurance growth",
+      "Path to profitability"
+    ],
+    "invalidation": "Regulatory action or unit-economics deterioration.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": -8.4,
+    "ebitda": -27.4,
+    "pat": -37.6,
+    "margin": 12.2,
+    "price": 1851.3,
+    "series": {
+      "rev": [
+        null,
+        31.4,
+        16.4,
+        -8.4
+      ],
+      "ebitda": [
+        null,
+        81.4,
+        29.7,
+        -27.4
+      ],
+      "pat": [
+        null,
+        123.9,
+        37.9,
+        -37.6
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        12.2
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "NAUKRI",
+    "yf": "NAUKRI.NS",
+    "name": "Info Edge (Naukri)",
+    "sector": "IT Services",
+    "stage": 2,
+    "score": 72,
+    "trigger": "Recruitment recovery; 99acres + Jeevansathi stable; billing productivity up.",
+    "evidence": [
+      "Recruitment recovery",
+      "Billing productivity"
+    ],
+    "invalidation": "Hiring market stalls or IT services growth slows.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 6.1,
+    "ebitda": 110.6,
+    "pat": 108.2,
+    "margin": 104.3,
+    "price": 1327.2,
+    "series": {
+      "rev": [
+        null,
+        1.8,
+        1.7,
+        6.1
+      ],
+      "ebitda": [
+        null,
+        -0.4,
+        -7.8,
+        110.6
+      ],
+      "pat": [
+        null,
+        6.9,
+        -14.1,
+        108.2
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        104.3
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "DMART",
+    "yf": "DMART.NS",
+    "name": "Avenue Supermarts",
+    "sector": "Retail",
+    "stage": 2,
+    "score": 77,
+    "trigger": "Store additions driving same-store growth; private label margins improving.",
+    "evidence": [
+      "Store expansion",
+      "Private label margins"
+    ],
+    "invalidation": "Store rollout slows or consumption weakens.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 6.3,
+    "ebitda": 24.1,
+    "pat": 31.1,
+    "margin": 8.1,
+    "price": 3772.0,
+    "series": {
+      "rev": [
+        null,
+        10.6,
+        -2.3,
+        6.3
+      ],
+      "ebitda": [
+        null,
+        12.3,
+        -17.0,
+        24.1
+      ],
+      "pat": [
+        null,
+        10.7,
+        -23.3,
+        31.1
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        8.1
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "TRENT",
+    "yf": "TRENT.NS",
+    "name": "Trent",
+    "sector": "Retail",
+    "stage": 2,
+    "score": 79,
+    "trigger": "Zudio + Westside same-store growth strong; new store economics improving.",
+    "evidence": [
+      "Zudio expansion",
+      "Same-store growth"
+    ],
+    "invalidation": "Discretionary demand stalls.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 14.5,
+    "ebitda": 22.3,
+    "pat": 29.6,
+    "margin": 20.0,
+    "price": 2845.9,
+    "series": {
+      "rev": [
+        null,
+        10.9,
+        -5.9,
+        14.5
+      ],
+      "ebitda": [
+        null,
+        28.7,
+        -13.5,
+        22.3
+      ],
+      "pat": [
+        null,
+        36.1,
+        -21.9,
+        29.6
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        20.0
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "BAJFINANCE",
+    "yf": "BAJFINANCE.NS",
+    "name": "Bajaj Finance",
+    "sector": "Banking & Financials",
+    "stage": 2,
+    "score": 82,
+    "trigger": "AUM growth re-accelerated; digital disbursals driving mix shift.",
+    "evidence": [
+      "AUM growth strong",
+      "Digital scale-up",
+      "Asset quality clean"
+    ],
+    "invalidation": "BFSI unsecured-retail slippages or deposit-cost spike.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 7.7,
+    "ebitda": null,
+    "pat": 9.5,
+    "margin": null,
+    "price": 1054.1,
+    "series": {
+      "rev": [
+        null,
+        4.3,
+        2.3,
+        7.7
+      ],
+      "ebitda": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "pat": [
+        null,
+        -18.4,
+        37.4,
+        9.5
       ],
       "margin": [
         null,
         null,
         null,
         null
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "BAJAJFINSV",
+    "yf": "BAJAJFINSV.NS",
+    "name": "Bajaj Finserv",
+    "sector": "Banking & Financials",
+    "stage": 2,
+    "score": 79,
+    "trigger": "General insurance + lending subsidiaries both contributing; consolidated growth steady.",
+    "evidence": [
+      "Lending + insurance both strong",
+      "Holding-company discount compressing"
+    ],
+    "invalidation": "Insurance claims spike or credit cycle turns.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 10.1,
+    "ebitda": null,
+    "pat": 23.4,
+    "margin": null,
+    "price": 1972.0,
+    "series": {
+      "rev": [
+        null,
+        3.3,
+        2.6,
+        10.1
+      ],
+      "ebitda": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "pat": [
+        null,
+        -0.7,
+        13.9,
+        23.4
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "ASIANPAINT",
+    "yf": "ASIANPAINT.NS",
+    "name": "Asian Paints",
+    "sector": "Consumer Durables",
+    "stage": 1,
+    "score": 65,
+    "trigger": "Rural demand recovery early; competitive intensity from new entrants a watch item.",
+    "evidence": [
+      "Rural demand recovering",
+      "Distribution steady"
+    ],
+    "invalidation": "Margin pressure from competition persists or crude derivatives spike.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 14.0,
+    "ebitda": 23.4,
+    "pat": 31.3,
+    "margin": 23.3,
+    "price": 2533.7,
+    "series": {
+      "rev": [
+        null,
+        3.9,
+        4.3,
+        14.0
+      ],
+      "ebitda": [
+        null,
+        6.3,
+        7.2,
+        23.4
+      ],
+      "pat": [
+        null,
+        6.7,
+        10.6,
+        31.3
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        23.3
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "MARICO",
+    "yf": "MARICO.NS",
+    "name": "Marico",
+    "sector": "FMCG",
+    "stage": 2,
+    "score": 73,
+    "trigger": "Copra cost normalising; foods + premium hair oils growing.",
+    "evidence": [
+      "Copra cost down",
+      "Premiumization"
+    ],
+    "invalidation": "Input cost spike or distribution slowdown.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 18.7,
+    "ebitda": 49.2,
+    "pat": 61.1,
+    "margin": 21.9,
+    "price": 819.15,
+    "series": {
+      "rev": [
+        null,
+        1.6,
+        -5.8,
+        18.7
+      ],
+      "ebitda": [
+        null,
+        3.6,
+        -7.9,
+        49.2
+      ],
+      "pat": [
+        null,
+        6.4,
+        -12.5,
+        61.1
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        21.9
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "BRITANNIA",
+    "yf": "BRITANNIA.NS",
+    "name": "Britannia Industries",
+    "sector": "FMCG",
+    "stage": 2,
+    "score": 73,
+    "trigger": "Distribution + adjacent categories (dairy, croissant) ramping; rural recovery helping.",
+    "evidence": [
+      "Adjacent categories",
+      "Distribution expansion"
+    ],
+    "invalidation": "Wheat / sugar cost spike or rural demand stalls.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 5.9,
+    "ebitda": 1.2,
+    "pat": -12.8,
+    "margin": 18.1,
+    "price": 5130.5,
+    "series": {
+      "rev": [
+        null,
+        7.7,
+        -4.1,
+        5.9
+      ],
+      "ebitda": [
+        null,
+        28.1,
+        -14.3,
+        1.2
+      ],
+      "pat": [
+        null,
+        30.6,
+        -0.2,
+        -12.8
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        18.1
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "NESTLEIND",
+    "yf": "NESTLEIND.NS",
+    "name": "Nestle India",
+    "sector": "FMCG",
+    "stage": 2,
+    "score": 75,
+    "trigger": "Pricing-led growth + margin recovery; rural distribution expanding.",
+    "evidence": [
+      "Pricing power",
+      "Margin recovery"
+    ],
+    "invalidation": "Input cost spike or rural slowdown.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 12.8,
+    "ebitda": 13.8,
+    "pat": -4.0,
+    "margin": 24.2,
+    "price": 1409.6,
+    "series": {
+      "rev": [
+        null,
+        -6.9,
+        11.2,
+        12.8
+      ],
+      "ebitda": [
+        null,
+        -21.0,
+        23.8,
+        13.8
+      ],
+      "pat": [
+        null,
+        -26.0,
+        54.4,
+        -4.0
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        24.2
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "COLPAL",
+    "yf": "COLPAL.NS",
+    "name": "Colgate-Palmolive",
+    "sector": "FMCG",
+    "stage": 2,
+    "score": 72,
+    "trigger": "Toothpaste category growth + natural segment scaling.",
+    "evidence": [
+      "Category growth",
+      "Natural segment"
+    ],
+    "invalidation": "Competitive intensity or input cost spike.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 0.5,
+    "ebitda": -1.5,
+    "pat": -2.9,
+    "margin": 31.6,
+    "price": 1843.9,
+    "series": {
+      "rev": [
+        null,
+        3.7,
+        7.5,
+        0.5
+      ],
+      "ebitda": [
+        null,
+        0.5,
+        7.8,
+        -1.5
+      ],
+      "pat": [
+        null,
+        1.0,
+        9.1,
+        -2.9
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        31.6
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "DABUR",
+    "yf": "DABUR.NS",
+    "name": "Dabur India",
+    "sector": "FMCG",
+    "stage": 1,
+    "score": 65,
+    "trigger": "Distribution + international business scaling; healthcare + foods diversification.",
+    "evidence": [
+      "International growing",
+      "Distribution scale-up"
+    ],
+    "invalidation": "Rural demand stalls or currency headwinds.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 23.9,
+    "ebitda": 43.7,
+    "pat": 60.3,
+    "margin": 24.3,
+    "price": 382.55,
+    "series": {
+      "rev": [
+        null,
+        4.5,
+        -14.6,
+        23.9
+      ],
+      "ebitda": [
+        null,
+        5.9,
+        -26.0,
+        43.7
+      ],
+      "pat": [
+        null,
+        9.0,
+        -34.2,
+        60.3
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        24.3
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "GODREJCP",
+    "yf": "GODREJCP.NS",
+    "name": "Godrej Consumer Products",
+    "sector": "FMCG",
+    "stage": 2,
+    "score": 72,
+    "trigger": "Indonesia + Africa businesses recovering; India growth steady.",
+    "evidence": [
+      "EM recovery",
+      "India distribution"
+    ],
+    "invalidation": "EM currency shock or input cost spike.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 8.4,
+    "ebitda": 2.4,
+    "pat": 11.7,
+    "margin": 19.9,
+    "price": 876.25,
+    "series": {
+      "rev": [
+        null,
+        14.9,
+        -4.8,
+        8.4
+      ],
+      "ebitda": [
+        null,
+        11.3,
+        -3.2,
+        2.4
+      ],
+      "pat": [
+        null,
+        10.0,
+        -9.3,
+        11.7
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        19.9
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "TITAN",
+    "yf": "TITAN.NS",
+    "name": "Titan Company",
+    "sector": "Consumer Durables",
+    "stage": 2,
+    "score": 78,
+    "trigger": "Jewellery ASP growth + watches wearables scaling; Tanishq store additions.",
+    "evidence": [
+      "Jewellery ASP up",
+      "Watches + wearables",
+      "Store expansion"
+    ],
+    "invalidation": "Gold price correction hurts sentiment or wedding season weak.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 0.9,
+    "ebitda": 39.8,
+    "pat": 50.7,
+    "margin": 14.6,
+    "price": 4987.5,
+    "series": {
+      "rev": [
+        null,
+        68.2,
+        -17.3,
+        0.9
+      ],
+      "ebitda": [
+        null,
+        40.2,
+        -19.9,
+        39.8
+      ],
+      "pat": [
+        null,
+        54.4,
+        -30.0,
+        50.7
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        14.6
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "PAGEIND",
+    "yf": "PAGEIND.NS",
+    "name": "Page Industries",
+    "sector": "Consumer Durables",
+    "stage": 2,
+    "score": 75,
+    "trigger": "Innerwear + athleisure growth; distribution expansion in Tier 2/3.",
+    "evidence": [
+      "Innerwear growth",
+      "Distribution expansion"
+    ],
+    "invalidation": "Cotton cost spike or demand slowdown.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": -9.7,
+    "ebitda": -6.0,
+    "pat": -5.7,
+    "margin": 22.2,
+    "price": 36040.0,
+    "series": {
+      "rev": [
+        null,
+        -2.0,
+        7.4,
+        -9.7
+      ],
+      "ebitda": [
+        null,
+        -3.4,
+        -1.2,
+        -6.0
+      ],
+      "pat": [
+        null,
+        -3.0,
+        -2.7,
+        -5.7
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        22.2
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "BERGEPAINT",
+    "yf": "BERGEPAINT.NS",
+    "name": "Berger Paints",
+    "sector": "Consumer Durables",
+    "stage": 2,
+    "score": 73,
+    "trigger": "Decorative paints + waterproofing + protective coatings scaling.",
+    "evidence": [
+      "Decorative growth",
+      "Protective coatings"
+    ],
+    "invalidation": "Crude derivatives spike or real estate stalls.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 25.0,
+    "ebitda": 19.4,
+    "pat": 20.8,
+    "margin": 18.4,
+    "price": 487.8,
+    "series": {
+      "rev": [
+        null,
+        -6.8,
+        -3.9,
+        25.0
+      ],
+      "ebitda": [
+        null,
+        -12.2,
+        18.2,
+        19.4
+      ],
+      "pat": [
+        null,
+        -13.8,
+        23.5,
+        20.8
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        18.4
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "KOTAKBANK",
+    "yf": "KOTAKBANK.NS",
+    "name": "Kotak Mahindra Bank",
+    "sector": "Banking & Financials",
+    "stage": 2,
+    "score": 78,
+    "trigger": "NIM stable; deposit growth strong post 811 issue unwind.",
+    "evidence": [
+      "Deposit growth",
+      "NIM stable"
+    ],
+    "invalidation": "Asset quality deteriorates or CD ratio worsens.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": null,
+    "ebitda": null,
+    "pat": null,
+    "margin": null,
+    "price": 425.0,
+    "series": {
+      "rev": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "ebitda": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "pat": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "AXISBANK",
+    "yf": "AXISBANK.NS",
+    "name": "Axis Bank",
+    "sector": "Banking & Financials",
+    "stage": 2,
+    "score": 76,
+    "trigger": "Corporate book re-rating; deposit franchise stabilizing.",
+    "evidence": [
+      "Corporate book growth",
+      "Deposit franchise"
+    ],
+    "invalidation": "Fresh slippages or NIM compression.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 4.2,
+    "ebitda": null,
+    "pat": 0.4,
+    "margin": null,
+    "price": 1273.4,
+    "series": {
+      "rev": [
+        null,
+        -0.2,
+        -0.2,
+        4.2
+      ],
+      "ebitda": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "pat": [
+        null,
+        12.3,
+        8.4,
+        0.4
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "BANKBARODA",
+    "yf": "BANKBARODA.NS",
+    "name": "Bank of Baroda",
+    "sector": "Banking & Financials",
+    "stage": 2,
+    "score": 73,
+    "trigger": "Corporate credit cycle turning; asset quality clean.",
+    "evidence": [
+      "Corporate credit growth",
+      "Asset quality clean"
+    ],
+    "invalidation": "CD ratio worsens or corporate slippages.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 4.2,
+    "ebitda": null,
+    "pat": -69.3,
+    "margin": null,
+    "price": 240.3,
+    "series": {
+      "rev": [
+        null,
+        7.3,
+        -1.0,
+        4.2
+      ],
+      "ebitda": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "pat": [
+        null,
+        56.9,
+        6.6,
+        -69.3
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "PNB",
+    "yf": "PNB.NS",
+    "name": "Punjab National Bank",
+    "sector": "Banking & Financials",
+    "stage": 1,
+    "score": 64,
+    "trigger": "Asset quality normalizing; corporate book growing.",
+    "evidence": [
+      "Asset quality normalizing",
+      "Corporate book"
+    ],
+    "invalidation": "Fresh MFI or unsecured slippages.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 4.9,
+    "ebitda": null,
+    "pat": 4.0,
+    "margin": null,
+    "price": 117.62,
+    "series": {
+      "rev": [
+        null,
+        -2.7,
+        -6.9,
+        4.9
+      ],
+      "ebitda": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "pat": [
+        null,
+        162.1,
+        0.6,
+        4.0
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "CANBK",
+    "yf": "CANBK.NS",
+    "name": "Canara Bank",
+    "sector": "Banking & Financials",
+    "stage": 2,
+    "score": 71,
+    "trigger": "Merger synergies + corporate credit growth; NIM improving.",
+    "evidence": [
+      "Merger synergies",
+      "Corporate credit"
+    ],
+    "invalidation": "NIM compression or fresh slippages.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 16.8,
+    "ebitda": null,
+    "pat": 13.3,
+    "margin": null,
+    "price": 126.85,
+    "series": {
+      "rev": [
+        null,
+        -46.6,
+        39.8,
+        16.8
+      ],
+      "ebitda": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "pat": [
+        null,
+        64.4,
+        -12.9,
+        13.3
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "CHOLAFIN",
+    "yf": "CHOLAFIN.NS",
+    "name": "Cholamandalam Investment",
+    "sector": "Banking & Financials",
+    "stage": 2,
+    "score": 76,
+    "trigger": "Vehicle finance AUM growth + disbursement momentum strong.",
+    "evidence": [
+      "Vehicle finance AUM growth",
+      "Disbursement strong"
+    ],
+    "invalidation": "Auto cycle turns or asset quality slips.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 2.9,
+    "ebitda": null,
+    "pat": 0.7,
+    "margin": null,
+    "price": 1835.0,
+    "series": {
+      "rev": [
+        null,
+        12.3,
+        10.3,
+        2.9
+      ],
+      "ebitda": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "pat": [
+        null,
+        13.4,
+        27.5,
+        0.7
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "SBICARD",
+    "yf": "SBICARD.NS",
+    "name": "SBI Cards",
+    "sector": "Banking & Financials",
+    "stage": 1,
+    "score": 65,
+    "trigger": "Spends growth + market share gains; credit cost normalizing.",
+    "evidence": [
+      "Spends growth",
+      "Market share gains"
+    ],
+    "invalidation": "Credit cost spike or regulatory caps on MDR.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": -0.0,
+    "ebitda": null,
+    "pat": 9.0,
+    "margin": null,
+    "price": 664.75,
+    "series": {
+      "rev": [
+        null,
+        4.6,
+        -3.7,
+        -0.0
+      ],
+      "ebitda": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "pat": [
+        null,
+        0.1,
+        9.5,
+        9.0
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "RECLTD",
+    "yf": "RECLTD.NS",
+    "name": "REC",
+    "sector": "Banking & Financials",
+    "stage": 2,
+    "score": 74,
+    "trigger": "Loan growth strong; spreads stable; asset quality clean.",
+    "evidence": [
+      "Loan growth strong",
+      "Asset quality clean"
+    ],
+    "invalidation": "Power sector capex stalls or NIM compresses.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": -17.4,
+    "ebitda": null,
+    "pat": 24.2,
+    "margin": null,
+    "price": 317.95,
+    "series": {
+      "rev": [
+        null,
+        4.8,
+        -1.6,
+        -17.4
+      ],
+      "ebitda": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "pat": [
+        null,
+        -9.3,
+        -16.7,
+        24.2
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "PFC",
+    "yf": "PFC.NS",
+    "name": "Power Finance Corp",
+    "sector": "Banking & Financials",
+    "stage": 2,
+    "score": 75,
+    "trigger": "Discom + renewable financing growing; spreads stable.",
+    "evidence": [
+      "Discom financing",
+      "Renewable tailwind"
+    ],
+    "invalidation": "Discom stress returns or spreads compress.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": -7.5,
+    "ebitda": 0.3,
+    "pat": 0.2,
+    "margin": 280.1,
+    "price": 355.8,
+    "series": {
+      "rev": [
+        null,
+        2.3,
+        -0.6,
+        -7.5
+      ],
+      "ebitda": [
+        null,
+        2.6,
+        1.2,
+        0.3
+      ],
+      "pat": [
+        null,
+        9.6,
+        11.2,
+        0.2
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        280.1
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "LICI",
+    "yf": "LICI.NS",
+    "name": "Life Insurance Corp",
+    "sector": "Insurance",
+    "stage": 2,
+    "score": 76,
+    "trigger": "APE growth + VNB margin expansion; product mix shifting to non-par.",
+    "evidence": [
+      "APE growth",
+      "VNB margin expansion"
+    ],
+    "invalidation": "Claims spike or yield curve inversion.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": null,
+    "ebitda": null,
+    "pat": null,
+    "margin": null,
+    "price": 418.3,
+    "series": {
+      "rev": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "ebitda": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "pat": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "SBILIFE",
+    "yf": "SBILIFE.NS",
+    "name": "SBI Life Insurance",
+    "sector": "Insurance",
+    "stage": 2,
+    "score": 74,
+    "trigger": "Individual APE growth + product mix improving; protection share rising.",
+    "evidence": [
+      "APE growth",
+      "Protection mix up"
+    ],
+    "invalidation": "Claims spike or yield curve flattens.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 1031.9,
+    "ebitda": null,
+    "pat": -9.9,
+    "margin": null,
+    "price": 1753.1,
+    "series": {
+      "rev": [
+        null,
+        18.2,
+        -91.1,
+        1031.9
+      ],
+      "ebitda": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "pat": [
+        null,
+        -3.0,
+        39.5,
+        -9.9
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "HDFCLIFE",
+    "yf": "HDFCLIFE.NS",
+    "name": "HDFC Life Insurance",
+    "sector": "Insurance",
+    "stage": 2,
+    "score": 73,
+    "trigger": "Product mix shifting to non-par savings; APE growth re-accelerating.",
+    "evidence": [
+      "Product mix up",
+      "APE growth"
+    ],
+    "invalidation": "Claims spike or competitive pricing pressure.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 70.2,
+    "ebitda": null,
+    "pat": 22.9,
+    "margin": null,
+    "price": 543.35,
+    "series": {
+      "rev": [
+        null,
+        -0.2,
+        -32.6,
+        70.2
+      ],
+      "ebitda": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "pat": [
+        null,
+        -23.7,
+        19.0,
+        22.9
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "ICICIPRULI",
+    "yf": "ICICIPRULI.NS",
+    "name": "ICICI Prudential Life",
+    "sector": "Insurance",
+    "stage": 2,
+    "score": 73,
+    "trigger": "Protection + annuity mix improving; ULIP recovery underway.",
+    "evidence": [
+      "Protection + annuity mix",
+      "ULIP recovery"
+    ],
+    "invalidation": "ULIP demand stalls or claims spike.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 810.8,
+    "ebitda": null,
+    "pat": -38.1,
+    "margin": null,
+    "price": 495.85,
+    "series": {
+      "rev": [
+        null,
+        -10.1,
+        -86.3,
+        810.8
+      ],
+      "ebitda": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "pat": [
+        null,
+        28.2,
+        61.2,
+        -38.1
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "TECHM",
+    "yf": "TECHM.NS",
+    "name": "Tech Mahindra",
+    "sector": "IT Services",
+    "stage": 1,
+    "score": 62,
+    "trigger": "Communication vertical stabilising; deal wins returning.",
+    "evidence": [
+      "Comm vertical stabilising",
+      "Deal wins"
+    ],
+    "invalidation": "Discretionary spend stays weak.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 4.2,
+    "ebitda": 11.5,
+    "pat": 8.2,
+    "margin": 16.8,
+    "price": 1602.4,
+    "series": {
+      "rev": [
+        null,
+        7.8,
+        4.7,
+        4.2
+      ],
+      "ebitda": [
+        null,
+        -3.8,
+        13.9,
+        11.5
+      ],
+      "pat": [
+        null,
+        -1.6,
+        20.7,
+        8.2
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        16.8
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "OFSS",
+    "yf": "OFSS.NS",
+    "name": "Oracle Financial Services",
+    "sector": "IT Services",
+    "stage": 2,
+    "score": 74,
+    "trigger": "Bank IT spend recovering; new logo additions in mid-tier banks.",
+    "evidence": [
+      "Bank IT spend recovery",
+      "New logos"
+    ],
+    "invalidation": "BFSI IT budgets cut.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 51.3,
+    "ebitda": 85.0,
+    "pat": 68.2,
+    "margin": 62.5,
+    "price": 12094.0,
+    "series": {
+      "rev": [
+        null,
+        6.1,
+        5.1,
+        51.3
+      ],
+      "ebitda": [
+        null,
+        4.0,
+        20.0,
+        85.0
+      ],
+      "pat": [
+        null,
+        -5.0,
+        38.1,
+        68.2
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        62.5
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "LTTS",
+    "yf": "LTTS.NS",
+    "name": "L&T Technology Services",
+    "sector": "IT Services",
+    "stage": 2,
+    "score": 73,
+    "trigger": "Mobility + sustainability + healthcare verticals growing.",
+    "evidence": [
+      "Mobility vertical",
+      "Sustainability tailwind"
+    ],
+    "invalidation": "Auto R&D cut or healthcare spending stalls.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 2.9,
+    "ebitda": 7.0,
+    "pat": 7.4,
+    "margin": 19.6,
+    "price": 3490.9,
+    "series": {
+      "rev": [
+        null,
+        10.8,
+        -2.2,
+        2.9
+      ],
+      "ebitda": [
+        null,
+        0.8,
+        5.5,
+        7.0
+      ],
+      "pat": [
+        null,
+        -4.1,
+        9.7,
+        7.4
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        19.6
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "BIRLASOFT",
+    "yf": "BIRLASOFT.NS",
+    "name": "Birlasoft",
+    "sector": "IT Services",
+    "stage": 2,
+    "score": 71,
+    "trigger": "Manufacturing + BFSI verticals growing; margin recovery underway.",
+    "evidence": [
+      "Manufacturing vertical",
+      "Margin recovery"
+    ],
+    "invalidation": "Discretionary spend cuts in target verticals.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": null,
+    "ebitda": null,
+    "pat": null,
+    "margin": null,
+    "price": null,
+    "series": {
+      "rev": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "ebitda": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "pat": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "ZOMATO",
+    "yf": "ZOMATO.NS",
+    "name": "Zomato",
+    "sector": "Consumer Internet",
+    "stage": 2,
+    "score": 74,
+    "trigger": "Quick commerce contribution growing; consolidated path to profitability clearer.",
+    "evidence": [
+      "Quick commerce growth",
+      "Path to profitability"
+    ],
+    "invalidation": "Quick commerce unit economics deteriorate.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": null,
+    "ebitda": null,
+    "pat": null,
+    "margin": null,
+    "price": null,
+    "series": {
+      "rev": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "ebitda": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "pat": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "PAYTM",
+    "yf": "PAYTM.NS",
+    "name": "One97 Communications (Paytm)",
+    "sector": "Fintech",
+    "stage": 1,
+    "score": 60,
+    "trigger": "Distribution + lending scale-up; payments profitability returning.",
+    "evidence": [
+      "Lending scale-up",
+      "Payments profitability"
+    ],
+    "invalidation": "Regulatory action against wallet or lending business.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 8.1,
+    "ebitda": 16.3,
+    "pat": 19.6,
+    "margin": 15.7,
+    "price": 1668.9,
+    "series": {
+      "rev": [
+        null,
+        14.4,
+        3.2,
+        8.1
+      ],
+      "ebitda": [
+        null,
+        24.0,
+        -9.8,
+        16.3
+      ],
+      "pat": [
+        null,
+        82.9,
+        -18.2,
+        19.6
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        15.7
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "NYKAA",
+    "yf": "NYKAA.NS",
+    "name": "FSN E-Commerce (Nykaa)",
+    "sector": "Consumer Internet",
+    "stage": 1,
+    "score": 60,
+    "trigger": "Beauty + fashion growth; platform GMV scaling.",
+    "evidence": [
+      "Beauty category growth",
+      "Platform GMV scaling"
+    ],
+    "invalidation": "Category growth stalls or competition intensifies.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 5.1,
+    "ebitda": 5.7,
+    "pat": 2.1,
+    "margin": 8.8,
+    "price": 334.4,
+    "series": {
+      "rev": [
+        null,
+        22.5,
+        -7.8,
+        5.1
+      ],
+      "ebitda": [
+        null,
+        32.4,
+        5.6,
+        5.7
+      ],
+      "pat": [
+        null,
+        83.9,
+        23.8,
+        2.1
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        8.8
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "DELHIVERY",
+    "yf": "DELHIVERY.NS",
+    "name": "Delhivery",
+    "sector": "Logistics",
+    "stage": 1,
+    "score": 62,
+    "trigger": "Express + PTL volume growth; path to profitability visible.",
+    "evidence": [
+      "Express + PTL growth",
+      "Path to profitability"
+    ],
+    "invalidation": "E-commerce parcel volume growth stalls.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 2.8,
+    "ebitda": -36.8,
+    "pat": -55.9,
+    "margin": 2.2,
+    "price": 459.5,
+    "series": {
+      "rev": [
+        null,
+        22.3,
+        1.6,
+        2.8
+      ],
+      "ebitda": [
+        null,
+        -40.3,
+        37.2,
+        -36.8
+      ],
+      "pat": [
+        null,
+        -56.5,
+        82.9,
+        -55.9
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        2.2
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "IRCTC",
+    "yf": "IRCTC.NS",
+    "name": "IRCTC",
+    "sector": "Travel & Tourism",
+    "stage": 2,
+    "score": 75,
+    "trigger": "Ticketing + catering + tourism scaling; rail traffic recovering.",
+    "evidence": [
+      "Ticketing + catering",
+      "Rail traffic recovery"
+    ],
+    "invalidation": "Ticketing fee cap or catering margin pressure.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 0.7,
+    "ebitda": -15.4,
+    "pat": -17.2,
+    "margin": 30.9,
+    "price": 476.5,
+    "series": {
+      "rev": [
+        null,
+        -1.2,
+        26.5,
+        0.7
+      ],
+      "ebitda": [
+        null,
+        3.4,
+        15.6,
+        -15.4
+      ],
+      "pat": [
+        null,
+        3.4,
+        15.3,
+        -17.2
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        30.9
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "INDIGO",
+    "yf": "INDIGO.NS",
+    "name": "InterGlobe Aviation (IndiGo)",
+    "sector": "Travel & Tourism",
+    "stage": 2,
+    "score": 76,
+    "trigger": "Domestic + international traffic growing; load factors at peak; international expansion underway.",
+    "evidence": [
+      "Domestic + intl growth",
+      "International expansion"
+    ],
+    "invalidation": "Fuel spike or capacity discipline breaks.",
+    "capacity": null,
+    "redFlags": [
+      "Quarterly RASK / CASK can swing on currency and fuel."
+    ],
+    "rev": 9.6,
+    "ebitda": null,
+    "pat": null,
+    "margin": 5.4,
+    "price": 4988.0,
+    "series": {
+      "rev": [
+        null,
+        14.5,
+        -4.4,
+        9.6
+      ],
+      "ebitda": [
+        null,
+        -43.1,
+        -141.1,
+        null
+      ],
+      "pat": [
+        null,
+        -74.7,
+        -561.3,
+        null
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        5.4
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "JINDALSTEL",
+    "yf": "JINDALSTEL.NS",
+    "name": "Jindal Steel & Power",
+    "sector": "Metals & Mining",
+    "stage": 2,
+    "score": 76,
+    "trigger": "India capacity utilization rising; exports holding up.",
+    "evidence": [
+      "India utilization up",
+      "Exports steady"
+    ],
+    "invalidation": "Steel prices correct sharply.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": -4.4,
+    "ebitda": 12.7,
+    "pat": -19.1,
+    "margin": 17.2,
+    "price": 1145.0,
+    "series": {
+      "rev": [
+        null,
+        6.1,
+        24.3,
+        -4.4
+      ],
+      "ebitda": [
+        null,
+        -47.8,
+        50.1,
+        12.7
+      ],
+      "pat": [
+        null,
+        -87.3,
+        448.6,
+        -19.1
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        17.2
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "HINDALCO",
+    "yf": "HINDALCO.NS",
+    "name": "Hindalco Industries",
+    "sector": "Metals & Mining",
+    "stage": 2,
+    "score": 75,
+    "trigger": "Novelis + India aluminium upstream utilization high.",
+    "evidence": [
+      "Novelis utilization",
+      "India upstream"
+    ],
+    "invalidation": "Aluminium / alumina prices correct or Novelis demand softens.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 8.6,
+    "ebitda": 130.6,
+    "pat": 170.0,
+    "margin": 12.2,
+    "price": 1008.2,
+    "series": {
+      "rev": [
+        null,
+        0.7,
+        17.5,
+        8.6
+      ],
+      "ebitda": [
+        null,
+        -49.5,
+        21.1,
+        130.6
+      ],
+      "pat": [
+        null,
+        -56.8,
+        26.7,
+        170.0
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        12.2
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "VEDL",
+    "yf": "VEDL.NS",
+    "name": "Vedanta",
+    "sector": "Metals & Mining",
+    "stage": 1,
+    "score": 64,
+    "trigger": "Diversified metals + oil & gas; demerger optionality visible.",
+    "evidence": [
+      "Demerger optionality",
+      "Diversified portfolio"
+    ],
+    "invalidation": "Commodity correction or dividend cut.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": -1.2,
+    "ebitda": 18.1,
+    "pat": -18.3,
+    "margin": 33.5,
+    "price": 270.1,
+    "series": {
+      "rev": [
+        null,
+        47.9,
+        3.3,
+        -1.2
+      ],
+      "ebitda": [
+        null,
+        61.9,
+        15.9,
+        18.1
+      ],
+      "pat": [
+        null,
+        79.3,
+        17.3,
+        -18.3
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        33.5
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "GRASIM",
+    "yf": "GRASIM.NS",
+    "name": "Grasim Industries",
+    "sector": "Cement",
+    "stage": 2,
+    "score": 74,
+    "trigger": "Cement + paints (Birla Opus) + viscose + financial services scale-up.",
+    "evidence": [
+      "Paints scale-up",
+      "Cement pricing firm"
+    ],
+    "invalidation": "Paints losses extend or cement pricing weakens.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 15.3,
+    "ebitda": 35.0,
+    "pat": 88.9,
+    "margin": 15.7,
+    "price": 3308.0,
+    "series": {
+      "rev": [
+        null,
+        -9.4,
+        10.5,
+        15.3
+      ],
+      "ebitda": [
+        null,
+        -2.8,
+        -7.8,
+        35.0
+      ],
+      "pat": [
+        null,
+        -5.2,
+        -26.9,
+        88.9
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        15.7
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "SHREECEM",
+    "yf": "SHREECEM.NS",
+    "name": "Shree Cement",
+    "sector": "Cement",
+    "stage": 2,
+    "score": 75,
+    "trigger": "Capacity additions + pricing discipline; regional mix improving.",
+    "evidence": [
+      "Capacity additions",
+      "Pricing discipline"
+    ],
+    "invalidation": "Pricing breaks down or fuel costs spike.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 2.2,
+    "ebitda": -0.1,
+    "pat": 0.7,
+    "margin": 23.8,
+    "price": 23960.0,
+    "series": {
+      "rev": [
+        null,
+        -9.1,
+        27.1,
+        2.2
+      ],
+      "ebitda": [
+        null,
+        -30.3,
+        35.9,
+        -0.1
+      ],
+      "pat": [
+        null,
+        -58.5,
+        97.1,
+        0.7
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        23.8
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "ACC",
+    "yf": "ACC.NS",
+    "name": "ACC",
+    "sector": "Cement",
+    "stage": 2,
+    "score": 72,
+    "trigger": "Pricing discipline + capacity utilization; adani-group integration synergies.",
+    "evidence": [
+      "Pricing discipline",
+      "Capacity utilization"
+    ],
+    "invalidation": "Pricing breaks down regionally.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": -18.7,
+    "ebitda": -27.9,
+    "pat": -38.3,
+    "margin": 8.4,
+    "price": 1279.1,
+    "series": {
+      "rev": [
+        null,
+        1.8,
+        11.5,
+        -18.7
+      ],
+      "ebitda": [
+        null,
+        -6.7,
+        -14.5,
+        -27.9
+      ],
+      "pat": [
+        null,
+        7.8,
+        -41.1,
+        -38.3
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        8.4
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "PIIND",
+    "yf": "PIIND.NS",
+    "name": "PI Industries",
+    "sector": "Chemicals",
+    "stage": 2,
+    "score": 75,
+    "trigger": "Agchem + pharma CDMO + CSM scale-up; new molecule pipeline visible.",
+    "evidence": [
+      "Agchem + pharma CDMO",
+      "New molecule pipeline"
+    ],
+    "invalidation": "Agchem cycle turns or new molecule approvals delay.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 13.8,
+    "ebitda": -13.4,
+    "pat": -35.7,
+    "margin": 26.3,
+    "price": 2479.8,
+    "series": {
+      "rev": [
+        null,
+        -1.5,
+        -26.5,
+        13.8
+      ],
+      "ebitda": [
+        null,
+        3.0,
+        -24.2,
+        -13.4
+      ],
+      "pat": [
+        null,
+        2.3,
+        -23.9,
+        -35.7
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        26.3
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "SRF",
+    "yf": "SRF.NS",
+    "name": "SRF",
+    "sector": "Chemicals",
+    "stage": 2,
+    "score": 75,
+    "trigger": "Specialty chemicals + refrigerant gases + packaging films scaling.",
+    "evidence": [
+      "Specialty chemicals scale-up",
+      "Refrigerant demand"
+    ],
+    "invalidation": "Refrigerant phase-out accelerates or specialty pricing erodes.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 9.0,
+    "ebitda": 22.3,
+    "pat": 30.4,
+    "margin": 25.7,
+    "price": 2555.8,
+    "series": {
+      "rev": [
+        null,
+        -3.4,
+        25.5,
+        9.0
+      ],
+      "ebitda": [
+        null,
+        -14.5,
+        41.5,
+        22.3
+      ],
+      "pat": [
+        null,
+        0.1,
+        34.5,
+        30.4
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        25.7
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "UPL",
+    "yf": "UPL.NS",
+    "name": "UPL",
+    "sector": "Chemicals",
+    "stage": 1,
+    "score": 62,
+    "trigger": "Debt reduction on track; agchem cycle stabilising.",
+    "evidence": [
+      "Debt reduction",
+      "Agchem cycle stabilising"
+    ],
+    "invalidation": "Agchem cycle weakens again or working capital stretches.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": -44.5,
+    "ebitda": -59.3,
+    "pat": -99.1,
+    "margin": 14.6,
+    "price": 585.8,
+    "series": {
+      "rev": [
+        null,
+        33.1,
+        49.4,
+        -44.5
+      ],
+      "ebitda": [
+        null,
+        72.1,
+        65.7,
+        -59.3
+      ],
+      "pat": [
+        null,
+        null,
+        167.9,
+        -99.1
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        14.6
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "DEEPAKNTR",
+    "yf": "DEEPAKNTR.NS",
+    "name": "Deepak Nitrite",
+    "sector": "Chemicals",
+    "stage": 2,
+    "score": 73,
+    "trigger": "Phenol + acetone + specialty downstream scaling.",
+    "evidence": [
+      "Phenol utilization",
+      "Downstream scaling"
+    ],
+    "invalidation": "Phenol-acetone spread compresses or new capacity delays.",
+    "capacity": "n/a",
+    "redFlags": [],
+    "rev": 21.6,
+    "ebitda": 44.8,
+    "pat": 57.0,
+    "margin": 21.5,
+    "price": 1718.4,
+    "series": {
+      "rev": [
+        null,
+        3.8,
+        7.4,
+        21.6
+      ],
+      "ebitda": [
+        null,
+        -7.9,
+        85.3,
+        44.8
+      ],
+      "pat": [
+        null,
+        -15.9,
+        120.2,
+        57.0
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        21.5
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "TATAPOWER",
+    "yf": "TATAPOWER.NS",
+    "name": "Tata Power",
+    "sector": "Power",
+    "stage": 2,
+    "score": 75,
+    "trigger": "Renewable capacity additions + EV charging + distribution turnaround.",
+    "evidence": [
+      "Renewable additions",
+      "EV charging scale-up"
+    ],
+    "invalidation": "Regulatory issues or capex overruns.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 27.9,
+    "ebitda": 2.7,
+    "pat": 18.1,
+    "margin": 23.6,
+    "price": 366.25,
+    "series": {
+      "rev": [
+        null,
+        -10.3,
+        6.8,
+        27.9
+      ],
+      "ebitda": [
+        null,
+        -1.2,
+        6.4,
+        2.7
+      ],
+      "pat": [
+        null,
+        -16.0,
+        29.0,
+        18.1
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        23.6
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "ADANIGREEN",
+    "yf": "ADANIGREEN.NS",
+    "name": "Adani Green Energy",
+    "sector": "Power",
+    "stage": 2,
+    "score": 76,
+    "trigger": "Capacity additions + power-purchase agreement pipeline; operational ramp.",
+    "evidence": [
+      "Capacity additions",
+      "PPA pipeline"
+    ],
+    "invalidation": "Project execution slips or PPA economics weaken.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 29.9,
+    "ebitda": null,
+    "pat": null,
+    "margin": 97.5,
+    "price": 1298.6,
+    "series": {
+      "rev": [
+        null,
+        -13.8,
+        36.8,
+        29.9
+      ],
+      "ebitda": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "pat": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        97.5
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "ADANIPORTS",
+    "yf": "ADANIPORTS.NS",
+    "name": "Adani Ports & SEZ",
+    "sector": "Logistics & Infrastructure",
+    "stage": 2,
+    "score": 75,
+    "trigger": "Cargo volumes + new port additions; logistics arm growing.",
+    "evidence": [
+      "Cargo volumes",
+      "Port additions"
+    ],
+    "invalidation": "Trade volumes weak or new port ramp slips.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 0.8,
+    "ebitda": 4.4,
+    "pat": 8.8,
+    "margin": 49.0,
+    "price": 1705.3,
+    "series": {
+      "rev": [
+        null,
+        6.3,
+        10.6,
+        0.8
+      ],
+      "ebitda": [
+        null,
+        -4.0,
+        14.2,
+        4.4
+      ],
+      "pat": [
+        null,
+        -7.9,
+        9.0,
+        8.8
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        49.0
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "GAIL",
+    "yf": "GAIL.NS",
+    "name": "GAIL India",
+    "sector": "Oil & Gas",
+    "stage": 2,
+    "score": 72,
+    "trigger": "Gas transmission + petchem utilization improving; marketing margin steady.",
+    "evidence": [
+      "Gas transmission volume",
+      "Petchem utilization"
+    ],
+    "invalidation": "Gas demand or petchem spreads compress.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 15.8,
+    "ebitda": 180.2,
+    "pat": 214.2,
+    "margin": 18.4,
+    "price": 172.55,
+    "series": {
+      "rev": [
+        null,
+        -0.4,
+        1.1,
+        15.8
+      ],
+      "ebitda": [
+        null,
+        -14.7,
+        -25.1,
+        180.2
+      ],
+      "pat": [
+        null,
+        -25.9,
+        -15.5,
+        214.2
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        18.4
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "IOC",
+    "yf": "IOC.NS",
+    "name": "Indian Oil Corp",
+    "sector": "Oil & Gas",
+    "stage": 3,
+    "score": 64,
+    "trigger": "Refining + marketing margin normalizing; petrochemical scale-up.",
+    "evidence": [
+      "GRM normalization",
+      "Petchem scale-up"
+    ],
+    "invalidation": "GRM compression or petchem oversupply.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": 27.9,
+    "ebitda": -96.3,
+    "pat": -111.3,
+    "margin": 0.3,
+    "price": 137.42,
+    "series": {
+      "rev": [
+        null,
+        6.7,
+        1.5,
+        27.9
+      ],
+      "ebitda": [
+        null,
+        84.0,
+        8.8,
+        -96.3
+      ],
+      "pat": [
+        null,
+        90.9,
+        11.2,
+        -111.3
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        0.3
+      ]
+    },
+    "refreshed_at": "2026-09-04"
+  },
+  {
+    "symbol": "COALINDIA",
+    "yf": "COALINDIA.NS",
+    "name": "Coal India",
+    "sector": "Mining",
+    "stage": 2,
+    "score": 73,
+    "trigger": "Realizations improving + e-auction premium growing; capex discipline.",
+    "evidence": [
+      "E-auction premium",
+      "Realizations improving"
+    ],
+    "invalidation": "Coal demand stalls or wage costs spike.",
+    "capacity": null,
+    "redFlags": [],
+    "rev": -0.5,
+    "ebitda": -19.5,
+    "pat": -18.3,
+    "margin": 26.0,
+    "price": 414.45,
+    "series": {
+      "rev": [
+        null,
+        -28.2,
+        50.9,
+        -0.5
+      ],
+      "ebitda": [
+        null,
+        -18.7,
+        52.9,
+        -19.5
+      ],
+      "pat": [
+        null,
+        -18.6,
+        51.4,
+        -18.3
+      ],
+      "margin": [
+        null,
+        null,
+        null,
+        26.0
       ]
     },
     "refreshed_at": "2026-09-04"
