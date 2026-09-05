@@ -6389,5 +6389,347 @@
     "invalidation": "Hiring market weak",
     "capacity": null,
     "redFlags": []
+  },
+  {
+    "symbol": "LIBERTSHOE",
+    "yf": "LIBERTSHOE.NS",
+    "name": "Liberty Shoes",
+    "sector": "Consumer Durables",
+    "subIndustry": "Leather",
+    "stage": 1,
+    "score": 55,
+    "trigger": "Footwear; small-cap, growth modest.",
+    "evidence": [
+      "Footwear"
+    ],
+    "invalidation": "Footwear demand softens",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "MIRZINTL",
+    "yf": "MIRZINTL.NS",
+    "name": "Mirza International",
+    "sector": "Consumer Durables",
+    "subIndustry": "Leather",
+    "stage": 1,
+    "score": 55,
+    "trigger": "Leather goods; small-cap, growth modest.",
+    "evidence": [
+      "Leather goods"
+    ],
+    "invalidation": "Leather demand softens",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "PETRONET",
+    "yf": "PETRONET.NS",
+    "name": "Petronet LNG",
+    "sector": "Oil & Gas",
+    "subIndustry": "Crude Oil & Natural Gas",
+    "stage": 2,
+    "score": 72,
+    "trigger": "LNG terminal; capacity expansion; growth steady.",
+    "evidence": [
+      "LNG + capacity"
+    ],
+    "invalidation": "LNG demand softens",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "MGL",
+    "yf": "MGL.NS",
+    "name": "Mahanagar Gas",
+    "sector": "Oil & Gas",
+    "subIndustry": "Gas Distribution",
+    "stage": 2,
+    "score": 73,
+    "trigger": "City gas distribution; growth steady; CNG penetration.",
+    "evidence": [
+      "CNG + PNG distribution"
+    ],
+    "invalidation": "Gas demand weak",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "IGL",
+    "yf": "IGL.NS",
+    "name": "Indraprastha Gas",
+    "sector": "Oil & Gas",
+    "subIndustry": "Gas Distribution",
+    "stage": 2,
+    "score": 74,
+    "trigger": "City gas distribution; NCR + expansion; growth steady.",
+    "evidence": [
+      "CNG + PNG"
+    ],
+    "invalidation": "Gas demand weak",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "GUJGASLTD",
+    "yf": "GUJGASLTD.NS",
+    "name": "Gujarat Gas",
+    "sector": "Oil & Gas",
+    "subIndustry": "Gas Distribution",
+    "stage": 2,
+    "score": 72,
+    "trigger": "City gas distribution; growth steady; CNG + industrial.",
+    "evidence": [
+      "CNG + industrial"
+    ],
+    "invalidation": "Gas demand weak",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "GSPL",
+    "yf": "GSPL.NS",
+    "name": "Gujarat State Petronet",
+    "sector": "Oil & Gas",
+    "subIndustry": "Gas Distribution",
+    "stage": 2,
+    "score": 70,
+    "trigger": "Gas pipeline; volume growth; capex done.",
+    "evidence": [
+      "Gas pipeline"
+    ],
+    "invalidation": "Volume weak",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "GODREJAGRO",
+    "yf": "GODREJAGRO.NS",
+    "name": "Godrej Agrovet",
+    "sector": "FMCG",
+    "subIndustry": "FMCG",
+    "stage": 2,
+    "score": 72,
+    "trigger": "Agri + animal feed; growth steady; distribution strength.",
+    "evidence": [
+      "Agri + animal feed"
+    ],
+    "invalidation": "Agri cycle weak",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "GODREJIND",
+    "yf": "GODREJIND.NS",
+    "name": "Godrej Industries",
+    "sector": "FMCG",
+    "subIndustry": "Diversified",
+    "stage": 2,
+    "score": 74,
+    "trigger": "Diversified conglomerate; consumer + chemicals; growth steady.",
+    "evidence": [
+      "Diversified conglomerate"
+    ],
+    "invalidation": "Consumer weak or input cost",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "MAWANASUG",
+    "yf": "MAWANASUG.NS",
+    "name": "Mawana Sugars",
+    "sector": "FMCG",
+    "subIndustry": "Diversified",
+    "stage": 1,
+    "score": 55,
+    "trigger": "Sugar + industrial; small-cap, growth modest.",
+    "evidence": [
+      "Sugar + industrial"
+    ],
+    "invalidation": "Sugar cycle weak",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "KESORAMIND",
+    "yf": "KESORAMIND.NS",
+    "name": "Kesoram Industries",
+    "sector": "FMCG",
+    "subIndustry": "Diversified",
+    "stage": 1,
+    "score": 50,
+    "trigger": "Diversified; small-cap, growth weak, balance sheet stress.",
+    "evidence": [
+      "Diversified"
+    ],
+    "invalidation": "Balance sheet stress",
+    "capacity": null,
+    "redFlags": [
+      "Balance sheet stress."
+    ]
+  },
+  {
+    "symbol": "PHOENIXLTD",
+    "yf": "PHOENIXLTD.NS",
+    "name": "Phoenix Mills",
+    "sector": "Realty",
+    "subIndustry": "Infrastructure Developers & Operators",
+    "stage": 2,
+    "score": 76,
+    "trigger": "Mall + commercial realty; rentals steady; growth strong.",
+    "evidence": [
+      "Mall + commercial"
+    ],
+    "invalidation": "Mall footfalls weak",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "AWFIS",
+    "yf": "AWFIS.NS",
+    "name": "Awfis Space Solutions",
+    "sector": "Realty",
+    "subIndustry": "Infrastructure Developers & Operators",
+    "stage": 1,
+    "score": 60,
+    "trigger": "Co-working; small-cap, growth steady; flexible office space.",
+    "evidence": [
+      "Co-working"
+    ],
+    "invalidation": "Office demand weak",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "VBL",
+    "yf": "VBL.NS",
+    "name": "Varun Beverages",
+    "sector": "FMCG",
+    "subIndustry": "Alcoholic Beverages",
+    "stage": 2,
+    "score": 76,
+    "trigger": "Beverages bottler; PepsiCo franchise; distribution strong; growth strong.",
+    "evidence": [
+      "Bottling + distribution"
+    ],
+    "invalidation": "Input cost or competition",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "ALOKTEXT",
+    "yf": "ALOKTEXT.NS",
+    "name": "Alok Industries",
+    "sector": "Consumer Durables",
+    "subIndustry": "Textiles",
+    "stage": 1,
+    "score": 50,
+    "trigger": "Textile + polyester; small-cap, growth weak.",
+    "evidence": [
+      "Textile + polyester"
+    ],
+    "invalidation": "Demand weak or competition",
+    "capacity": null,
+    "redFlags": [
+      "Weak fundamentals."
+    ]
+  },
+  {
+    "symbol": "FILATEX",
+    "yf": "FILATEX.NS",
+    "name": "Filatex India",
+    "sector": "Consumer Durables",
+    "subIndustry": "Textiles",
+    "stage": 1,
+    "score": 60,
+    "trigger": "Polyester yarn; small-cap, growth steady.",
+    "evidence": [
+      "Polyester yarn"
+    ],
+    "invalidation": "Demand weak",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "SPENTEX",
+    "yf": "SPENTEX.NS",
+    "name": "Spentex Industries",
+    "sector": "Consumer Durables",
+    "subIndustry": "Textiles",
+    "stage": 1,
+    "score": 50,
+    "trigger": "Textile; small-cap, growth weak.",
+    "evidence": [
+      "Textile"
+    ],
+    "invalidation": "Demand weak",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "CSBBANK",
+    "yf": "CSBBANK.NS",
+    "name": "CSB Bank",
+    "sector": "Banking & Financials",
+    "subIndustry": "Banks",
+    "stage": 1,
+    "score": 60,
+    "trigger": "Small-cap bank; growth modest, asset quality watch.",
+    "evidence": [
+      "Small-cap bank"
+    ],
+    "invalidation": "Asset quality or growth weak",
+    "capacity": null,
+    "redFlags": [
+      "Small-cap; asset quality watch."
+    ]
+  },
+  {
+    "symbol": "BANKBEES",
+    "yf": "BANKBEES.NS",
+    "name": "Nippon India ETF Bank BeES",
+    "sector": "Capital Markets",
+    "subIndustry": "ETF",
+    "stage": 2,
+    "score": 70,
+    "trigger": "Banking ETF; passive; tracks Nifty Bank index.",
+    "evidence": [
+      "Banking index"
+    ],
+    "invalidation": "Index weak",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "JUNIORBEES",
+    "yf": "JUNIORBEES.NS",
+    "name": "Nippon India ETF Nifty Next 50 BeES",
+    "sector": "Capital Markets",
+    "subIndustry": "ETF",
+    "stage": 2,
+    "score": 70,
+    "trigger": "Mid-cap ETF; passive; tracks Nifty Next 50.",
+    "evidence": [
+      "Mid-cap index"
+    ],
+    "invalidation": "Index weak",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "TATACONSUM",
+    "yf": "TATACONSUM.NS",
+    "name": "Tata Consumer Products",
+    "sector": "FMCG",
+    "subIndustry": "FMCG",
+    "stage": 2,
+    "score": 75,
+    "trigger": "Tea + coffee + salt; brand ramp; growth strong.",
+    "evidence": [
+      "Brand ramp"
+    ],
+    "invalidation": "Commodity cost or competition",
+    "capacity": null,
+    "redFlags": []
   }
 ]
