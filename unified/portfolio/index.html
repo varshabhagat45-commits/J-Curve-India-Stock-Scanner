@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>J-Curve India — Portfolio</title>
+  <link rel="stylesheet" href="portfolio.css" />
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <div class="logo">JP</div>
+      <div>
+        <h1>J-Curve India — Portfolio</h1>
+        <p>Live P&L against J-Curve verdicts · <a href="../" style="color:#3ddc97">← back to Unified Verdict</a></p>
+      </div>
+    </div>
+    <div class="topbar-actions">
+      <span id="asOf" class="muted"></span>
+      <button id="addBtn">+ Add Position</button>
+      <button id="exportBtn">Export</button>
+    </div>
+  </header>
+
+  <section class="counters" id="counters">
+    <!-- populated by JS -->
+  </section>
+
+  <section class="grid">
+    <div class="table-card">
+      <table>
+        <thead>
+          <tr>
+            <th>Symbol</th>
+            <th>Qty</th>
+            <th>Avg Cost</th>
+            <th>Current</th>
+            <th>P&amp;L</th>
+            <th>Return</th>
+            <th>Holding</th>
+            <th>J-Curve</th>
+            <th>Action</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="positions"></tbody>
+      </table>
+      <div id="empty" class="empty">
+        <p>No positions yet. Click <b>+ Add Position</b> to track your first trade.</p>
+      </div>
+    </div>
+
+    <aside class="alloc-card">
+      <h3>Sector exposure</h3>
+      <div id="alloc"></div>
+    </aside>
+  </section>
+
+  <!-- Add Position Modal -->
+  <div id="modal" class="modal hidden">
+    <div class="modal-card">
+      <h3>Add / Edit position</h3>
+      <label>Symbol (NSE ticker)
+        <input id="fSymbol" placeholder="e.g. RELIANCE" />
+      </label>
+      <label>Quantity (shares)
+        <input id="fQty" type="number" min="1" step="1" placeholder="e.g. 50" />
+      </label>
+      <label>Avg cost (₹ per share)
+        <input id="fPrice" type="number" min="0" step="0.01" placeholder="e.g. 1320" />
+      </label>
+      <label>Entry date
+        <input id="fDate" type="date" />
+      </label>
+      <label>Note (optional)
+        <input id="fNote" placeholder="e.g. J-Curve stage 2, target 1500" />
+      </label>
+      <div class="modal-actions">
+        <button id="cancelBtn">Cancel</button>
+        <button id="saveBtn" class="primary">Save</button>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <span>Portfolio data stored in your browser only (localStorage). No server, no tracking.</span>
+    <span>Research tool, not investment advice.</span>
+  </footer>
+
+  <script src="portfolio.js"></script>
+</body>
+</html>
