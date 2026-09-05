@@ -6731,5 +6731,311 @@
     "invalidation": "Commodity cost or competition",
     "capacity": null,
     "redFlags": []
+  },
+  {
+    "symbol": "ACMESOLAR",
+    "yf": "ACMESOLAR.NS",
+    "name": "Acme Solar Holdings",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 1,
+    "score": 65,
+    "trigger": "Solar module manufacturer; small-cap, growth dependent on orders.",
+    "evidence": [
+      "Solar module demand"
+    ],
+    "invalidation": "Solar demand softens or competition",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "BOROSCI",
+    "yf": "BOROSCI.NS",
+    "name": "Borosil Renewables",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 1,
+    "score": 62,
+    "trigger": "Solar glass manufacturer; small-cap, growth dependent on module demand.",
+    "evidence": [
+      "Solar glass demand"
+    ],
+    "invalidation": "Solar demand softens",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "CLEAN",
+    "yf": "CLEAN.NS",
+    "name": "Clean Max Env. Energy",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 1,
+    "score": 60,
+    "trigger": "Solar EPC + IPP; small-cap, growth modest.",
+    "evidence": [
+      "Solar EPC + IPP"
+    ],
+    "invalidation": "Solar demand softens",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "EMMVEE",
+    "yf": "EMMVEE.NS",
+    "name": "Emmvee Photovoltaic",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 1,
+    "score": 58,
+    "trigger": "Solar modules; small-cap, growth modest, competition intense.",
+    "evidence": [
+      "Solar modules"
+    ],
+    "invalidation": "Competition or demand weak",
+    "capacity": null,
+    "redFlags": [
+      "Competition intense."
+    ]
+  },
+  {
+    "symbol": "FUJIYAMA",
+    "yf": "FUJIYAMA.NS",
+    "name": "Fujiyama Power Systems",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 1,
+    "score": 55,
+    "trigger": "Solar EPC; small-cap, growth weak, early stage.",
+    "evidence": [
+      "Solar EPC"
+    ],
+    "invalidation": "Solar demand weak",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "INSOLATION",
+    "yf": "INSOLATION.NS",
+    "name": "Insolation Energy",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 1,
+    "score": 55,
+    "trigger": "Solar modules; small-cap, growth weak, early stage.",
+    "evidence": [
+      "Solar modules"
+    ],
+    "invalidation": "Solar demand weak",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "KPIGREEN",
+    "yf": "KPIGREEN.NS",
+    "name": "KPI Green Energy",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 1,
+    "score": 65,
+    "trigger": "Solar + wind IPP; small-cap, growth dependent on capacity additions.",
+    "evidence": [
+      "Solar + wind capacity"
+    ],
+    "invalidation": "Capex delays or competition",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "NTPCGREEN",
+    "yf": "NTPCGREEN.NS",
+    "name": "NTPC Green Energy",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 2,
+    "score": 74,
+    "trigger": "NTPC subsidiary; renewable capacity additions; growth strong.",
+    "evidence": [
+      "Capacity additions"
+    ],
+    "invalidation": "Capex delays or PPA economics",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "OSWALPUMPS",
+    "yf": "OSWALPUMPS.NS",
+    "name": "Oswal Pumps",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 2,
+    "score": 75,
+    "trigger": "Solar pumps manufacturer; growth strong; solar + water segment.",
+    "evidence": [
+      "Solar pump demand"
+    ],
+    "invalidation": "Solar demand softens",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "PREMIER",
+    "yf": "PREMIER.NS",
+    "name": "Premier Energies",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 1,
+    "score": 60,
+    "trigger": "Solar cell + module manufacturer; small-cap, growth modest.",
+    "evidence": [
+      "Solar cell + module"
+    ],
+    "invalidation": "Solar demand softens",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "RAVINDRA",
+    "yf": "RAVINDRA.NS",
+    "name": "Ravindra Energy",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 1,
+    "score": 55,
+    "trigger": "Solar EPC; small-cap, growth weak, early stage.",
+    "evidence": [
+      "Solar EPC"
+    ],
+    "invalidation": "Solar demand weak",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "SAATVIK",
+    "yf": "SAATVIK.NS",
+    "name": "Saatvik Green Energy",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 1,
+    "score": 60,
+    "trigger": "Solar modules; small-cap, growth modest.",
+    "evidence": [
+      "Solar modules"
+    ],
+    "invalidation": "Solar demand softens or competition",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "SHAKTIPUMPS",
+    "yf": "SHAKTIPUMPS.NS",
+    "name": "Shakti Pumps (India)",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 2,
+    "score": 75,
+    "trigger": "Solar pumps + water management; growth strong; market leader.",
+    "evidence": [
+      "Solar + water pumps"
+    ],
+    "invalidation": "Solar demand softens",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "STERLINGWIL",
+    "yf": "STERLINGWIL.NS",
+    "name": "Sterling and Wilson",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 1,
+    "score": 60,
+    "trigger": "Solar EPC; small-cap, growth dependent on order book.",
+    "evidence": [
+      "Solar EPC"
+    ],
+    "invalidation": "Order book weak or competition",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "VIKRAMSOLAR",
+    "yf": "VIKRAMSOLAR.NS",
+    "name": "Vikram Solar",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 2,
+    "score": 75,
+    "trigger": "Solar modules; growth strong; capacity expansion.",
+    "evidence": [
+      "Solar module capacity"
+    ],
+    "invalidation": "Solar demand softens",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "VISAKAIND",
+    "yf": "VISAKAIND.NS",
+    "name": "Visaka Industries",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 1,
+    "score": 58,
+    "trigger": "Solar roof + building materials; small-cap, growth modest.",
+    "evidence": [
+      "Solar roof + building materials"
+    ],
+    "invalidation": "Solar demand softens",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "WAAREE",
+    "yf": "WAAREE.NS",
+    "name": "Waaree Energies",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 2,
+    "score": 78,
+    "trigger": "Solar modules; growth strong; market leader; capacity expansion.",
+    "evidence": [
+      "Solar module leader"
+    ],
+    "invalidation": "Solar demand softens or competition",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "WAAREERENEW",
+    "yf": "WAAREERENEW.NS",
+    "name": "Waaree Renewables",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 2,
+    "score": 75,
+    "trigger": "Solar EPC + IPP; growth strong; capacity expansion.",
+    "evidence": [
+      "Solar EPC + capacity"
+    ],
+    "invalidation": "Capex delays or PPA economics",
+    "capacity": null,
+    "redFlags": []
+  },
+  {
+    "symbol": "WEBSOL",
+    "yf": "WEBSOL.NS",
+    "name": "Websol Energy System",
+    "sector": "Capital Goods & Engineering",
+    "subIndustry": "Solar and Renewables",
+    "stage": 1,
+    "score": 58,
+    "trigger": "Solar cells; small-cap, growth modest.",
+    "evidence": [
+      "Solar cells"
+    ],
+    "invalidation": "Solar demand softens",
+    "capacity": null,
+    "redFlags": []
   }
 ]
