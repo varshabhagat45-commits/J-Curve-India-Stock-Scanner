@@ -18,7 +18,7 @@
     "ebitda": 15.4,
     "pat": 23.4,
     "margin": 12.6,
-    "price": 1182.0,
+    "price": 1187.0,
     "series": {
       "rev": [
         2.1,
@@ -45,7 +45,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Telecomm-Service"
   },
   {
@@ -67,7 +67,7 @@
     "ebitda": -54.6,
     "pat": 10.0,
     "margin": 4.8,
-    "price": 230.0,
+    "price": 225.8,
     "series": {
       "rev": [
         7.2,
@@ -94,7 +94,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Oil Drill/Allied"
   },
   {
@@ -116,7 +116,7 @@
     "ebitda": -2.9,
     "pat": -2.7,
     "margin": 26.9,
-    "price": 2032.4,
+    "price": 2050.6,
     "series": {
       "rev": [
         0.9,
@@ -143,7 +143,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "IT - Software"
   },
   {
@@ -165,7 +165,7 @@
     "ebitda": -2.0,
     "pat": -10.9,
     "margin": 25.7,
-    "price": 1015.4,
+    "price": 994.1,
     "series": {
       "rev": [
         0.3,
@@ -192,7 +192,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "IT - Software"
   },
   {
@@ -214,7 +214,7 @@
     "ebitda": -3.5,
     "pat": -4.3,
     "margin": 22.0,
-    "price": 156.79,
+    "price": 158.5,
     "series": {
       "rev": [
         0.4,
@@ -241,7 +241,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "IT - Hardware"
   },
   {
@@ -263,7 +263,7 @@
     "ebitda": null,
     "pat": null,
     "margin": 20.9,
-    "price": 1222.0,
+    "price": 1230.0,
     "series": {
       "rev": [
         null,
@@ -290,7 +290,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "IT - Hardware"
   },
   {
@@ -312,7 +312,7 @@
     "ebitda": 15.9,
     "pat": 11.5,
     "margin": 58.0,
-    "price": 1771.2,
+    "price": 1757.0,
     "series": {
       "rev": [
         2.3,
@@ -339,7 +339,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Telecomm-Service"
   },
   {
@@ -361,7 +361,7 @@
     "ebitda": null,
     "pat": 74.5,
     "margin": null,
-    "price": 878.0,
+    "price": 901.4,
     "series": {
       "rev": [
         2.5,
@@ -388,7 +388,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Banks"
   },
   {
@@ -410,7 +410,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 722.7,
+    "price": 708.7,
     "series": {
       "rev": [
         null,
@@ -437,7 +437,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Banks"
   },
   {
@@ -459,7 +459,7 @@
     "ebitda": null,
     "pat": 4.6,
     "margin": null,
-    "price": 1292.2,
+    "price": 1321.7,
     "series": {
       "rev": [
         2.9,
@@ -486,7 +486,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Banks"
   },
   {
@@ -508,7 +508,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 964.7,
+    "price": 959.5,
     "series": {
       "rev": [
         null,
@@ -535,7 +535,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Banks"
   },
   {
@@ -557,7 +557,7 @@
     "ebitda": -6.7,
     "pat": -5.8,
     "margin": 12.2,
-    "price": 11877.0,
+    "price": 11967.0,
     "series": {
       "rev": [
         0.1,
@@ -584,7 +584,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Automobile"
   },
   {
@@ -606,7 +606,7 @@
     "ebitda": 6.1,
     "pat": 16.9,
     "margin": 20.8,
-    "price": 2947.8,
+    "price": 2950.0,
     "series": {
       "rev": [
         1.9,
@@ -633,7 +633,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Automobile"
   },
   {
@@ -682,7 +682,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Automobile"
   },
   {
@@ -704,7 +704,7 @@
     "ebitda": 11.9,
     "pat": 6.7,
     "margin": 32.5,
-    "price": 1865.0,
+    "price": 1816.6,
     "series": {
       "rev": [
         1.7,
@@ -731,7 +731,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Pharmaceuticals"
   },
   {
@@ -753,7 +753,7 @@
     "ebitda": 27.2,
     "pat": 42.3,
     "margin": 19.8,
-    "price": 1379.3,
+    "price": 1346.0,
     "series": {
       "rev": [
         3.8,
@@ -780,7 +780,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Pharmaceuticals"
   },
   {
@@ -802,7 +802,7 @@
     "ebitda": 40.8,
     "pat": 100.8,
     "margin": 15.1,
-    "price": 1251.9,
+    "price": 1233.0,
     "series": {
       "rev": [
         3.0,
@@ -829,7 +829,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Pharmaceuticals"
   },
   {
@@ -851,7 +851,7 @@
     "ebitda": -6.6,
     "pat": -10.7,
     "margin": 23.6,
-    "price": 1863.8,
+    "price": 1879.1,
     "series": {
       "rev": [
         2.4,
@@ -878,7 +878,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "FMCG"
   },
   {
@@ -900,7 +900,7 @@
     "ebitda": -17.0,
     "pat": -18.4,
     "margin": 33.3,
-    "price": 265.1,
+    "price": 262.75,
     "series": {
       "rev": [
         3.1,
@@ -927,7 +927,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Tobacco Products"
   },
   {
@@ -949,7 +949,7 @@
     "ebitda": -6.3,
     "pat": -20.8,
     "margin": 15.3,
-    "price": 188.0,
+    "price": 184.3,
     "series": {
       "rev": [
         -1.4,
@@ -976,7 +976,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Steel"
   },
   {
@@ -998,7 +998,7 @@
     "ebitda": -62.5,
     "pat": -71.6,
     "margin": 21.5,
-    "price": 1272.4,
+    "price": 1253.4,
     "series": {
       "rev": [
         -2.5,
@@ -1025,7 +1025,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Steel"
   },
   {
@@ -1047,7 +1047,7 @@
     "ebitda": -9.5,
     "pat": -12.9,
     "margin": 20.8,
-    "price": 10829.0,
+    "price": 10956.0,
     "series": {
       "rev": [
         -1.8,
@@ -1074,7 +1074,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Cement"
   },
   {
@@ -1096,7 +1096,7 @@
     "ebitda": null,
     "pat": null,
     "margin": 18.4,
-    "price": 365.75,
+    "price": 374.0,
     "series": {
       "rev": [
         null,
@@ -1123,7 +1123,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Cement"
   },
   {
@@ -1145,7 +1145,7 @@
     "ebitda": 46.8,
     "pat": 50.6,
     "margin": 28.6,
-    "price": 1461.0,
+    "price": 1465.1,
     "series": {
       "rev": [
         10.8,
@@ -1172,7 +1172,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Chemicals"
   },
   {
@@ -1194,7 +1194,7 @@
     "ebitda": -33.8,
     "pat": -37.4,
     "margin": 37.1,
-    "price": 653.0,
+    "price": 674.0,
     "series": {
       "rev": [
         -11.8,
@@ -1221,7 +1221,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Realty"
   },
   {
@@ -1243,7 +1243,7 @@
     "ebitda": -17.2,
     "pat": -22.6,
     "margin": 12.5,
-    "price": 3749.1,
+    "price": 3760.0,
     "series": {
       "rev": [
         -7.2,
@@ -1270,7 +1270,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Engineering"
   },
   {
@@ -1292,7 +1292,7 @@
     "ebitda": 26.0,
     "pat": 33.5,
     "margin": 11.8,
-    "price": 3710.0,
+    "price": 3725.6,
     "series": {
       "rev": [
         8.2,
@@ -1319,7 +1319,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Power Infrastructure"
   },
   {
@@ -1341,7 +1341,7 @@
     "ebitda": -49.9,
     "pat": -59.8,
     "margin": 8.0,
-    "price": 1043.3,
+    "price": 1016.0,
     "series": {
       "rev": [
         -1.1,
@@ -1368,7 +1368,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Consumer Durables"
   },
   {
@@ -1390,7 +1390,7 @@
     "ebitda": 35.7,
     "pat": 36.8,
     "margin": 4.7,
-    "price": 1090.0,
+    "price": 1070.0,
     "series": {
       "rev": [
         23.5,
@@ -1417,7 +1417,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Consumer Durables"
   },
   {
@@ -1439,7 +1439,7 @@
     "ebitda": null,
     "pat": null,
     "margin": 3.2,
-    "price": 2972.9,
+    "price": 2903.4,
     "series": {
       "rev": [
         null,
@@ -1466,7 +1466,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Capital Goods-Non Electrical Equipment"
   },
   {
@@ -1488,7 +1488,7 @@
     "ebitda": -130.3,
     "pat": -133.3,
     "margin": -1.7,
-    "price": 299.35,
+    "price": 303.2,
     "series": {
       "rev": [
         11.0,
@@ -1515,7 +1515,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Refineries"
   },
   {
@@ -1538,7 +1538,7 @@
     "ebitda": 21.9,
     "pat": -15.3,
     "margin": 18.6,
-    "price": 1722.0,
+    "price": 1749.1,
     "series": {
       "rev": [
         9.7,
@@ -1565,7 +1565,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "IT - Software"
   },
   {
@@ -1588,7 +1588,7 @@
     "ebitda": -4.2,
     "pat": -8.7,
     "margin": 17.8,
-    "price": 5162.0,
+    "price": 5279.0,
     "series": {
       "rev": [
         2.4,
@@ -1615,7 +1615,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "IT - Software"
   },
   {
@@ -1664,7 +1664,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "IT - Software"
   },
   {
@@ -1713,7 +1713,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "IT - Software"
   },
   {
@@ -1736,7 +1736,7 @@
     "ebitda": -12.8,
     "pat": -22.6,
     "margin": 25.2,
-    "price": 3211.7,
+    "price": 3088.9,
     "series": {
       "rev": [
         1.1,
@@ -1763,7 +1763,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "IT - Software"
   },
   {
@@ -1786,7 +1786,7 @@
     "ebitda": 100.7,
     "pat": 158.7,
     "margin": 6.4,
-    "price": 13250.0,
+    "price": 13100.0,
     "series": {
       "rev": [
         19.2,
@@ -1813,7 +1813,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Electronics"
   },
   {
@@ -1836,7 +1836,7 @@
     "ebitda": -31.2,
     "pat": -38.1,
     "margin": 17.1,
-    "price": 3511.5,
+    "price": 3501.0,
     "series": {
       "rev": [
         -9.6,
@@ -1863,7 +1863,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Electronics"
   },
   {
@@ -1885,7 +1885,7 @@
     "ebitda": 1.6,
     "pat": 1.5,
     "margin": 15.1,
-    "price": 8102.5,
+    "price": 8026.0,
     "series": {
       "rev": [
         -3.0,
@@ -1912,7 +1912,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Cables"
   },
   {
@@ -1934,7 +1934,7 @@
     "ebitda": -2.1,
     "pat": -3.6,
     "margin": 13.0,
-    "price": 4461.0,
+    "price": 4455.0,
     "series": {
       "rev": [
         -3.4,
@@ -1961,7 +1961,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Cables"
   },
   {
@@ -1983,7 +1983,7 @@
     "ebitda": 67.0,
     "pat": 97.8,
     "margin": 18.1,
-    "price": 1375.0,
+    "price": 1370.4,
     "series": {
       "rev": [
         14.2,
@@ -2010,7 +2010,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Plastic products"
   },
   {
@@ -2032,7 +2032,7 @@
     "ebitda": -6.8,
     "pat": -6.2,
     "margin": 25.0,
-    "price": 4800.0,
+    "price": 4760.0,
     "series": {
       "rev": [
         5.6,
@@ -2059,7 +2059,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Capital Goods - Electrical Equipment"
   },
   {
@@ -2081,7 +2081,7 @@
     "ebitda": 6.2,
     "pat": -79.7,
     "margin": 15.3,
-    "price": 6660.5,
+    "price": 6776.0,
     "series": {
       "rev": [
         4.5,
@@ -2108,7 +2108,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Power Infrastructure"
   },
   {
@@ -2130,7 +2130,7 @@
     "ebitda": -27.4,
     "pat": -37.6,
     "margin": 12.2,
-    "price": 1081.0,
+    "price": 1063.9,
     "series": {
       "rev": [
         -3.4,
@@ -2157,7 +2157,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "IT - Software"
   },
   {
@@ -2179,7 +2179,7 @@
     "ebitda": 110.6,
     "pat": 108.2,
     "margin": 104.3,
-    "price": 1245.0,
+    "price": 1219.5,
     "series": {
       "rev": [
         2.4,
@@ -2206,7 +2206,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Online Media"
   },
   {
@@ -2228,7 +2228,7 @@
     "ebitda": 24.1,
     "pat": 31.1,
     "margin": 8.1,
-    "price": 3750.0,
+    "price": 3801.4,
     "series": {
       "rev": [
         2.5,
@@ -2255,7 +2255,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Retail"
   },
   {
@@ -2277,7 +2277,7 @@
     "ebitda": 22.3,
     "pat": 29.6,
     "margin": 20.0,
-    "price": 2635.0,
+    "price": 2621.6,
     "series": {
       "rev": [
         5.8,
@@ -2304,7 +2304,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Retail"
   },
   {
@@ -2327,7 +2327,7 @@
     "ebitda": null,
     "pat": 9.5,
     "margin": null,
-    "price": 973.8,
+    "price": 959.4,
     "series": {
       "rev": [
         3.1,
@@ -2354,7 +2354,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Finance"
   },
   {
@@ -2376,7 +2376,7 @@
     "ebitda": null,
     "pat": 23.4,
     "margin": null,
-    "price": 1742.4,
+    "price": 1731.0,
     "series": {
       "rev": [
         4.0,
@@ -2403,7 +2403,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Insurance"
   },
   {
@@ -2425,7 +2425,7 @@
     "ebitda": 23.4,
     "pat": 31.3,
     "margin": 23.3,
-    "price": 2415.0,
+    "price": 2402.6,
     "series": {
       "rev": [
         5.6,
@@ -2452,7 +2452,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Paints/Varnish"
   },
   {
@@ -2474,7 +2474,7 @@
     "ebitda": 49.2,
     "pat": 61.1,
     "margin": 21.9,
-    "price": 787.15,
+    "price": 786.0,
     "series": {
       "rev": [
         7.5,
@@ -2501,7 +2501,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "FMCG"
   },
   {
@@ -2523,7 +2523,7 @@
     "ebitda": 1.2,
     "pat": -12.8,
     "margin": 18.1,
-    "price": 4835.0,
+    "price": 4830.0,
     "series": {
       "rev": [
         2.4,
@@ -2550,7 +2550,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "FMCG"
   },
   {
@@ -2572,7 +2572,7 @@
     "ebitda": 13.8,
     "pat": -4.0,
     "margin": 24.2,
-    "price": 1345.7,
+    "price": 1310.0,
     "series": {
       "rev": [
         5.1,
@@ -2599,7 +2599,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "FMCG"
   },
   {
@@ -2621,7 +2621,7 @@
     "ebitda": -1.5,
     "pat": -2.9,
     "margin": 31.6,
-    "price": 1785.1,
+    "price": 1763.3,
     "series": {
       "rev": [
         0.2,
@@ -2648,7 +2648,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "FMCG"
   },
   {
@@ -2670,7 +2670,7 @@
     "ebitda": 43.7,
     "pat": 60.3,
     "margin": 24.3,
-    "price": 380.4,
+    "price": 380.1,
     "series": {
       "rev": [
         9.6,
@@ -2697,7 +2697,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "FMCG"
   },
   {
@@ -2719,7 +2719,7 @@
     "ebitda": 2.4,
     "pat": 11.7,
     "margin": 19.9,
-    "price": 855.0,
+    "price": 850.0,
     "series": {
       "rev": [
         3.4,
@@ -2746,7 +2746,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "FMCG"
   },
   {
@@ -2769,7 +2769,7 @@
     "ebitda": 39.8,
     "pat": 50.7,
     "margin": 14.6,
-    "price": 4675.0,
+    "price": 4587.0,
     "series": {
       "rev": [
         0.4,
@@ -2796,7 +2796,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Diamond, Gems and Jewellery"
   },
   {
@@ -2818,7 +2818,7 @@
     "ebitda": -6.0,
     "pat": -5.7,
     "margin": 22.2,
-    "price": 36580.0,
+    "price": 36385.0,
     "series": {
       "rev": [
         -3.9,
@@ -2845,7 +2845,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Readymade Garments/ Apparells"
   },
   {
@@ -2867,7 +2867,7 @@
     "ebitda": 19.4,
     "pat": 20.8,
     "margin": 18.4,
-    "price": 448.2,
+    "price": 455.45,
     "series": {
       "rev": [
         10.0,
@@ -2894,7 +2894,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Paints/Varnish"
   },
   {
@@ -2916,7 +2916,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 406.0,
+    "price": 417.0,
     "series": {
       "rev": [
         null,
@@ -2943,7 +2943,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Banks"
   },
   {
@@ -2965,7 +2965,7 @@
     "ebitda": null,
     "pat": 0.4,
     "margin": null,
-    "price": 1212.1,
+    "price": 1226.0,
     "series": {
       "rev": [
         1.7,
@@ -2992,7 +2992,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Banks"
   },
   {
@@ -3014,7 +3014,7 @@
     "ebitda": null,
     "pat": -69.3,
     "margin": null,
-    "price": 227.68,
+    "price": 230.55,
     "series": {
       "rev": [
         1.7,
@@ -3041,7 +3041,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Banks"
   },
   {
@@ -3063,7 +3063,7 @@
     "ebitda": null,
     "pat": 4.0,
     "margin": null,
-    "price": 111.75,
+    "price": 113.06,
     "series": {
       "rev": [
         2.0,
@@ -3090,7 +3090,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Banks"
   },
   {
@@ -3112,7 +3112,7 @@
     "ebitda": null,
     "pat": 13.3,
     "margin": null,
-    "price": 119.51,
+    "price": 119.44,
     "series": {
       "rev": [
         6.7,
@@ -3139,7 +3139,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Banks"
   },
   {
@@ -3161,7 +3161,7 @@
     "ebitda": null,
     "pat": 0.7,
     "margin": null,
-    "price": 1627.3,
+    "price": 1620.0,
     "series": {
       "rev": [
         1.2,
@@ -3188,7 +3188,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Financial Services"
   },
   {
@@ -3210,7 +3210,7 @@
     "ebitda": null,
     "pat": 9.0,
     "margin": null,
-    "price": 581.0,
+    "price": 578.05,
     "series": {
       "rev": [
         -0.0,
@@ -3237,7 +3237,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Finance"
   },
   {
@@ -3259,7 +3259,7 @@
     "ebitda": null,
     "pat": 24.2,
     "margin": null,
-    "price": 292.45,
+    "price": 299.0,
     "series": {
       "rev": [
         -7.0,
@@ -3286,7 +3286,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Trading"
   },
   {
@@ -3308,7 +3308,7 @@
     "ebitda": 0.3,
     "pat": 0.2,
     "margin": 280.1,
-    "price": 324.1,
+    "price": 325.5,
     "series": {
       "rev": [
         -3.0,
@@ -3335,7 +3335,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Banks"
   },
   {
@@ -3357,7 +3357,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 390.0,
+    "price": 395.2,
     "series": {
       "rev": [
         null,
@@ -3384,7 +3384,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Insurance"
   },
   {
@@ -3406,7 +3406,7 @@
     "ebitda": null,
     "pat": -9.9,
     "margin": null,
-    "price": 1735.0,
+    "price": 1696.4,
     "series": {
       "rev": [
         412.8,
@@ -3433,7 +3433,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Insurance"
   },
   {
@@ -3455,7 +3455,7 @@
     "ebitda": null,
     "pat": 22.9,
     "margin": null,
-    "price": 523.55,
+    "price": 521.2,
     "series": {
       "rev": [
         28.1,
@@ -3482,7 +3482,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Insurance"
   },
   {
@@ -3504,7 +3504,7 @@
     "ebitda": null,
     "pat": -38.1,
     "margin": null,
-    "price": 444.55,
+    "price": 443.8,
     "series": {
       "rev": [
         324.3,
@@ -3531,7 +3531,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Insurance"
   },
   {
@@ -3553,7 +3553,7 @@
     "ebitda": 11.5,
     "pat": 8.2,
     "margin": 16.8,
-    "price": 1510.5,
+    "price": 1524.0,
     "series": {
       "rev": [
         1.7,
@@ -3580,7 +3580,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "IT - Software"
   },
   {
@@ -3602,7 +3602,7 @@
     "ebitda": 85.0,
     "pat": 68.2,
     "margin": 62.5,
-    "price": 10406.0,
+    "price": 10630.0,
     "series": {
       "rev": [
         20.5,
@@ -3629,7 +3629,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "IT - Software"
   },
   {
@@ -3651,7 +3651,7 @@
     "ebitda": 7.0,
     "pat": 7.4,
     "margin": 19.6,
-    "price": 3081.6,
+    "price": 3228.6,
     "series": {
       "rev": [
         1.2,
@@ -3678,7 +3678,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "IT - Software"
   },
   {
@@ -3727,7 +3727,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "IT - Hardware"
   },
   {
@@ -3776,7 +3776,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Online Media"
   },
   {
@@ -3798,7 +3798,7 @@
     "ebitda": 16.3,
     "pat": 19.6,
     "margin": 15.7,
-    "price": 1683.0,
+    "price": 1678.0,
     "series": {
       "rev": [
         3.2,
@@ -3825,7 +3825,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "E-Commerce/App based Aggregator"
   },
   {
@@ -3847,7 +3847,7 @@
     "ebitda": 5.7,
     "pat": 2.1,
     "margin": 8.8,
-    "price": 327.35,
+    "price": 320.0,
     "series": {
       "rev": [
         2.0,
@@ -3874,7 +3874,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "E-Commerce/App based Aggregator"
   },
   {
@@ -3896,7 +3896,7 @@
     "ebitda": -36.8,
     "pat": -55.9,
     "margin": 2.2,
-    "price": 417.4,
+    "price": 409.7,
     "series": {
       "rev": [
         1.1,
@@ -3923,7 +3923,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Logistics"
   },
   {
@@ -3945,7 +3945,7 @@
     "ebitda": -15.4,
     "pat": -17.2,
     "margin": 30.9,
-    "price": 452.55,
+    "price": 455.4,
     "series": {
       "rev": [
         0.3,
@@ -3972,7 +3972,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Railways"
   },
   {
@@ -3996,7 +3996,7 @@
     "ebitda": null,
     "pat": null,
     "margin": 5.4,
-    "price": 4872.0,
+    "price": 4984.0,
     "series": {
       "rev": [
         3.8,
@@ -4023,7 +4023,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Air Transport Service"
   },
   {
@@ -4045,7 +4045,7 @@
     "ebitda": 12.7,
     "pat": -19.1,
     "margin": 17.2,
-    "price": 1130.0,
+    "price": 1134.9,
     "series": {
       "rev": [
         -1.8,
@@ -4072,7 +4072,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Steel"
   },
   {
@@ -4094,7 +4094,7 @@
     "ebitda": 130.6,
     "pat": 170.0,
     "margin": 12.2,
-    "price": 955.2,
+    "price": 941.8,
     "series": {
       "rev": [
         3.4,
@@ -4121,7 +4121,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Non Ferrous Metals"
   },
   {
@@ -4143,7 +4143,7 @@
     "ebitda": 18.1,
     "pat": -18.3,
     "margin": 33.5,
-    "price": 260.0,
+    "price": 259.0,
     "series": {
       "rev": [
         -0.5,
@@ -4170,7 +4170,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Steel"
   },
   {
@@ -4192,7 +4192,7 @@
     "ebitda": 35.0,
     "pat": 88.9,
     "margin": 15.7,
-    "price": 3100.0,
+    "price": 3061.9,
     "series": {
       "rev": [
         6.1,
@@ -4219,7 +4219,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Cement"
   },
   {
@@ -4241,7 +4241,7 @@
     "ebitda": -0.1,
     "pat": 0.7,
     "margin": 23.8,
-    "price": 21900.0,
+    "price": 22345.0,
     "series": {
       "rev": [
         0.9,
@@ -4268,7 +4268,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Cement"
   },
   {
@@ -4290,7 +4290,7 @@
     "ebitda": -27.9,
     "pat": -38.3,
     "margin": 8.4,
-    "price": 1202.6,
+    "price": 1204.1,
     "series": {
       "rev": [
         -7.5,
@@ -4317,7 +4317,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Cement"
   },
   {
@@ -4339,7 +4339,7 @@
     "ebitda": -13.4,
     "pat": -35.7,
     "margin": 26.3,
-    "price": 2288.8,
+    "price": 2310.0,
     "series": {
       "rev": [
         5.5,
@@ -4366,7 +4366,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Agro Chemicals"
   },
   {
@@ -4388,7 +4388,7 @@
     "ebitda": 22.3,
     "pat": 30.4,
     "margin": 25.7,
-    "price": 2420.1,
+    "price": 2472.5,
     "series": {
       "rev": [
         3.6,
@@ -4415,7 +4415,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Chemicals"
   },
   {
@@ -4437,7 +4437,7 @@
     "ebitda": -59.3,
     "pat": -99.1,
     "margin": 14.6,
-    "price": 538.0,
+    "price": 539.75,
     "series": {
       "rev": [
         -17.8,
@@ -4464,7 +4464,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Agro Chemicals"
   },
   {
@@ -4486,7 +4486,7 @@
     "ebitda": 44.8,
     "pat": 57.0,
     "margin": 21.5,
-    "price": 1529.0,
+    "price": 1529.8,
     "series": {
       "rev": [
         8.6,
@@ -4513,7 +4513,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Chemicals"
   },
   {
@@ -4562,7 +4562,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Power Generation & Distribution"
   },
   {
@@ -4584,7 +4584,7 @@
     "ebitda": null,
     "pat": null,
     "margin": 97.5,
-    "price": 1260.0,
+    "price": 1278.0,
     "series": {
       "rev": [
         12.0,
@@ -4611,7 +4611,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Power Generation & Distribution"
   },
   {
@@ -4633,7 +4633,7 @@
     "ebitda": 4.4,
     "pat": 8.8,
     "margin": 49.0,
-    "price": 1822.0,
+    "price": 1798.3,
     "series": {
       "rev": [
         0.3,
@@ -4660,7 +4660,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Power Generation & Distribution"
   },
   {
@@ -4682,7 +4682,7 @@
     "ebitda": 180.2,
     "pat": 214.2,
     "margin": 18.4,
-    "price": 170.04,
+    "price": 170.55,
     "series": {
       "rev": [
         6.3,
@@ -4709,7 +4709,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Petrochemicals"
   },
   {
@@ -4731,7 +4731,7 @@
     "ebitda": -96.3,
     "pat": -111.3,
     "margin": 0.3,
-    "price": 131.33,
+    "price": 134.93,
     "series": {
       "rev": [
         11.2,
@@ -4758,7 +4758,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Refineries"
   },
   {
@@ -4807,7 +4807,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Mining & Mineral products"
   },
   {
@@ -4830,7 +4830,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1769.7,
+    "price": 1819.9,
     "series": {
       "rev": [
         null,
@@ -4857,7 +4857,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "IT - Software"
   },
   {
@@ -4881,7 +4881,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1779.4,
+    "price": 1747.5,
     "series": {
       "rev": [
         null,
@@ -4908,7 +4908,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "IT - Software"
   },
   {
@@ -4932,7 +4932,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 519.7,
+    "price": 499.1,
     "series": {
       "rev": [
         null,
@@ -4959,7 +4959,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "IT - Hardware"
   },
   {
@@ -4981,7 +4981,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 686.75,
+    "price": 707.5,
     "series": {
       "rev": [
         null,
@@ -5008,7 +5008,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "IT - Hardware"
   },
   {
@@ -5031,7 +5031,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 153.44,
+    "price": 154.19,
     "series": {
       "rev": [
         null,
@@ -5058,7 +5058,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Automobile"
   },
   {
@@ -5081,7 +5081,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 7179.0,
+    "price": 7150.0,
     "series": {
       "rev": [
         null,
@@ -5108,7 +5108,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Automobile"
   },
   {
@@ -5133,7 +5133,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 4091.1,
+    "price": 4106.0,
     "series": {
       "rev": [
         null,
@@ -5160,7 +5160,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Automobile"
   },
   {
@@ -5209,7 +5209,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Automobile"
   },
   {
@@ -5231,7 +5231,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 2100.0,
+    "price": 2031.0,
     "series": {
       "rev": [
         null,
@@ -5258,7 +5258,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Automobile"
   },
   {
@@ -5282,7 +5282,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 5208.0,
+    "price": 5241.0,
     "series": {
       "rev": [
         null,
@@ -5309,7 +5309,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Automobile"
   },
   {
@@ -5332,7 +5332,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1106.6,
+    "price": 1135.0,
     "series": {
       "rev": [
         null,
@@ -5359,7 +5359,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Realty"
   },
   {
@@ -5382,7 +5382,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1417.5,
+    "price": 1481.9,
     "series": {
       "rev": [
         null,
@@ -5409,7 +5409,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Realty"
   },
   {
@@ -5434,7 +5434,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 361.0,
+    "price": 360.3,
     "series": {
       "rev": [
         null,
@@ -5461,7 +5461,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Realty"
   },
   {
@@ -5485,7 +5485,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1762.9,
+    "price": 1765.7,
     "series": {
       "rev": [
         null,
@@ -5512,7 +5512,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Realty"
   },
   {
@@ -5536,7 +5536,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1634.4,
+    "price": 1628.5,
     "series": {
       "rev": [
         null,
@@ -5563,7 +5563,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Realty"
   },
   {
@@ -5613,7 +5613,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Realty"
   },
   {
@@ -5637,7 +5637,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 204.84,
+    "price": 206.34,
     "series": {
       "rev": [
         null,
@@ -5664,7 +5664,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Realty"
   },
   {
@@ -5688,7 +5688,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 754.45,
+    "price": 727.15,
     "series": {
       "rev": [
         null,
@@ -5715,7 +5715,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Realty"
   },
   {
@@ -5738,7 +5738,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 166.41,
+    "price": 182.28,
     "series": {
       "rev": [
         null,
@@ -5765,7 +5765,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Realty"
   },
   {
@@ -5788,7 +5788,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 4549.3,
+    "price": 4668.0,
     "series": {
       "rev": [
         null,
@@ -5815,7 +5815,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Aerospace & Defence"
   },
   {
@@ -5838,7 +5838,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 387.75,
+    "price": 388.3,
     "series": {
       "rev": [
         null,
@@ -5865,7 +5865,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Aerospace & Defence"
   },
   {
@@ -5888,7 +5888,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1085.1,
+    "price": 1110.1,
     "series": {
       "rev": [
         null,
@@ -5915,7 +5915,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Aerospace & Defence"
   },
   {
@@ -5937,7 +5937,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 2087.1,
+    "price": 2113.0,
     "series": {
       "rev": [
         null,
@@ -5964,7 +5964,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Ship Building"
   },
   {
@@ -5987,7 +5987,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1359.3,
+    "price": 1315.0,
     "series": {
       "rev": [
         null,
@@ -6014,7 +6014,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Ship Building"
   },
   {
@@ -6037,7 +6037,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 18650.0,
+    "price": 19700.0,
     "series": {
       "rev": [
         null,
@@ -6064,7 +6064,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Aerospace & Defence"
   },
   {
@@ -6087,7 +6087,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1692.6,
+    "price": 1782.9,
     "series": {
       "rev": [
         null,
@@ -6114,7 +6114,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Electronics"
   },
   {
@@ -6136,7 +6136,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 86.65,
+    "price": 86.3,
     "series": {
       "rev": [
         null,
@@ -6163,7 +6163,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Electronics"
   },
   {
@@ -6186,7 +6186,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 4920.7,
+    "price": 4797.9,
     "series": {
       "rev": [
         null,
@@ -6213,7 +6213,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Electronics"
   },
   {
@@ -6236,7 +6236,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 602.3,
+    "price": 598.9,
     "series": {
       "rev": [
         null,
@@ -6263,7 +6263,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Realty"
   },
   {
@@ -6285,7 +6285,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 259.25,
+    "price": 265.65,
     "series": {
       "rev": [
         null,
@@ -6312,7 +6312,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Railways"
   },
   {
@@ -6363,7 +6363,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Telecomm-Service"
   },
   {
@@ -6412,7 +6412,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Automobile"
   },
   {
@@ -6435,7 +6435,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1637.4,
+    "price": 1683.7,
     "series": {
       "rev": [
         null,
@@ -6462,7 +6462,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Cement"
   },
   {
@@ -6484,7 +6484,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 4824.5,
+    "price": 5076.0,
     "series": {
       "rev": [
         null,
@@ -6511,7 +6511,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Cement"
   },
   {
@@ -6534,7 +6534,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 849.9,
+    "price": 840.05,
     "series": {
       "rev": [
         null,
@@ -6561,7 +6561,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Cement"
   },
   {
@@ -6583,7 +6583,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 303.7,
+    "price": 301.85,
     "series": {
       "rev": [
         null,
@@ -6610,7 +6610,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Cement"
   },
   {
@@ -6633,7 +6633,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 406.75,
+    "price": 404.7,
     "series": {
       "rev": [
         null,
@@ -6660,7 +6660,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Tyres"
   },
   {
@@ -6684,7 +6684,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 123080.0,
+    "price": 125280.0,
     "series": {
       "rev": [
         null,
@@ -6711,7 +6711,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Tyres"
   },
   {
@@ -6760,7 +6760,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Tyres"
   },
   {
@@ -6783,7 +6783,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 2126.2,
+    "price": 2117.0,
     "series": {
       "rev": [
         null,
@@ -6810,7 +6810,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Tyres"
   },
   {
@@ -6834,7 +6834,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 334.8,
+    "price": 347.0,
     "series": {
       "rev": [
         null,
@@ -6861,7 +6861,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Tyres"
   },
   {
@@ -6884,7 +6884,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 8659.0,
+    "price": 8165.5,
     "series": {
       "rev": [
         null,
@@ -6911,7 +6911,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Healthcare"
   },
   {
@@ -6934,7 +6934,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 982.1,
+    "price": 929.8,
     "series": {
       "rev": [
         null,
@@ -6961,7 +6961,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Healthcare"
   },
   {
@@ -7011,7 +7011,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Healthcare"
   },
   {
@@ -7033,7 +7033,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 562.3,
+    "price": 541.7,
     "series": {
       "rev": [
         null,
@@ -7060,7 +7060,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Healthcare"
   },
   {
@@ -7110,7 +7110,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Hotels & Restaurants"
   },
   {
@@ -7133,7 +7133,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 301.85,
+    "price": 301.1,
     "series": {
       "rev": [
         null,
@@ -7160,7 +7160,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Hotels & Restaurants"
   },
   {
@@ -7183,7 +7183,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 840.75,
+    "price": 845.2,
     "series": {
       "rev": [
         null,
@@ -7210,7 +7210,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Hotels & Restaurants"
   },
   {
@@ -7232,7 +7232,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 104.17,
+    "price": 104.25,
     "series": {
       "rev": [
         null,
@@ -7259,7 +7259,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Hotels & Restaurants"
   },
   {
@@ -7282,7 +7282,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 563.05,
+    "price": 575.25,
     "series": {
       "rev": [
         null,
@@ -7309,7 +7309,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Realty"
   },
   {
@@ -7332,7 +7332,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1216.5,
+    "price": 1221.6,
     "series": {
       "rev": [
         null,
@@ -7359,7 +7359,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Realty"
   },
   {
@@ -7383,7 +7383,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 427.05,
+    "price": 424.85,
     "series": {
       "rev": [
         null,
@@ -7410,7 +7410,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Realty"
   },
   {
@@ -7432,7 +7432,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 280.3,
+    "price": 277.4,
     "series": {
       "rev": [
         null,
@@ -7459,7 +7459,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Realty"
   },
   {
@@ -7482,7 +7482,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 346.65,
+    "price": 340.95,
     "series": {
       "rev": [
         null,
@@ -7509,7 +7509,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Non Ferrous Metals"
   },
   {
@@ -7532,7 +7532,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 474.35,
+    "price": 472.65,
     "series": {
       "rev": [
         null,
@@ -7559,7 +7559,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Non Ferrous Metals"
   },
   {
@@ -7582,7 +7582,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 3200.0,
+    "price": 3092.0,
     "series": {
       "rev": [
         null,
@@ -7609,7 +7609,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Financial Services"
   },
   {
@@ -7631,7 +7631,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 3232.0,
+    "price": 3300.4,
     "series": {
       "rev": [
         null,
@@ -7658,7 +7658,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Financial Services"
   },
   {
@@ -7681,7 +7681,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1261.9,
+    "price": 1264.0,
     "series": {
       "rev": [
         null,
@@ -7708,7 +7708,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Financial Services"
   },
   {
@@ -7731,7 +7731,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 838.2,
+    "price": 840.0,
     "series": {
       "rev": [
         null,
@@ -7758,7 +7758,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Financial Services"
   },
   {
@@ -7781,7 +7781,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 185.31,
+    "price": 178.23,
     "series": {
       "rev": [
         null,
@@ -7808,7 +7808,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Banks"
   },
   {
@@ -7831,7 +7831,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1005.2,
+    "price": 1010.3,
     "series": {
       "rev": [
         null,
@@ -7858,7 +7858,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Banks"
   },
   {
@@ -7882,7 +7882,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 402.0,
+    "price": 403.35,
     "series": {
       "rev": [
         null,
@@ -7909,7 +7909,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Banks"
   },
   {
@@ -7933,7 +7933,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 202.37,
+    "price": 203.54,
     "series": {
       "rev": [
         null,
@@ -7960,7 +7960,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Banks"
   },
   {
@@ -7983,7 +7983,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 318.15,
+    "price": 324.8,
     "series": {
       "rev": [
         null,
@@ -8010,7 +8010,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Banks"
   },
   {
@@ -8032,7 +8032,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 971.5,
+    "price": 982.7,
     "series": {
       "rev": [
         null,
@@ -8059,7 +8059,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Financial Services"
   },
   {
@@ -8082,7 +8082,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 328.05,
+    "price": 324.85,
     "series": {
       "rev": [
         null,
@@ -8109,7 +8109,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Financial Services"
   },
   {
@@ -8132,7 +8132,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 226.67,
+    "price": 220.76,
     "series": {
       "rev": [
         null,
@@ -8159,7 +8159,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29",
+    "refreshed_at": "2026-09-30",
     "subIndustry": "Finance"
   },
   {
@@ -8181,7 +8181,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 463.0,
+    "price": 456.7,
     "series": {
       "rev": [
         null,
@@ -8208,7 +8208,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "DEVYANI",
@@ -8229,7 +8229,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 130.72,
+    "price": 130.29,
     "series": {
       "rev": [
         null,
@@ -8256,7 +8256,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "SAPPHIRE",
@@ -8277,7 +8277,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 211.05,
+    "price": 212.08,
     "series": {
       "rev": [
         null,
@@ -8304,7 +8304,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "WESTLIFE",
@@ -8325,7 +8325,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 596.6,
+    "price": 589.85,
     "series": {
       "rev": [
         null,
@@ -8352,7 +8352,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "BALRAMCHIN",
@@ -8373,7 +8373,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 672.9,
+    "price": 662.85,
     "series": {
       "rev": [
         null,
@@ -8400,7 +8400,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "EIDPARRY",
@@ -8421,7 +8421,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 696.25,
+    "price": 685.9,
     "series": {
       "rev": [
         null,
@@ -8448,7 +8448,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "DALMIASUG",
@@ -8469,7 +8469,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 412.2,
+    "price": 408.8,
     "series": {
       "rev": [
         null,
@@ -8496,7 +8496,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "TRIVENI",
@@ -8517,7 +8517,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 239.15,
+    "price": 235.7,
     "series": {
       "rev": [
         null,
@@ -8544,7 +8544,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "TRIDENT",
@@ -8565,7 +8565,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 22.49,
+    "price": 22.44,
     "series": {
       "rev": [
         null,
@@ -8592,7 +8592,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "WELSPUN",
@@ -8640,7 +8640,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "VARDHMAN",
@@ -8688,7 +8688,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "KPRMILL",
@@ -8709,7 +8709,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1081.5,
+    "price": 1103.3,
     "series": {
       "rev": [
         null,
@@ -8736,7 +8736,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "INDOCOUNT",
@@ -8784,7 +8784,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "SUNTV",
@@ -8805,7 +8805,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 553.25,
+    "price": 605.0,
     "series": {
       "rev": [
         null,
@@ -8832,7 +8832,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "ZEEL",
@@ -8855,7 +8855,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 74.14,
+    "price": 74.47,
     "series": {
       "rev": [
         null,
@@ -8882,7 +8882,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "PVRINOX",
@@ -8903,7 +8903,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1190.1,
+    "price": 1242.7,
     "series": {
       "rev": [
         null,
@@ -8930,7 +8930,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "NETWORK18",
@@ -8951,7 +8951,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 25.88,
+    "price": 25.87,
     "series": {
       "rev": [
         null,
@@ -8978,7 +8978,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "TIPSMUSIC",
@@ -8999,7 +8999,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 647.2,
+    "price": 657.85,
     "series": {
       "rev": [
         null,
@@ -9026,7 +9026,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "HATHWAY",
@@ -9047,7 +9047,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 9.49,
+    "price": 9.45,
     "series": {
       "rev": [
         null,
@@ -9074,7 +9074,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "TVTODAY",
@@ -9095,7 +9095,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 103.84,
+    "price": 104.19,
     "series": {
       "rev": [
         null,
@@ -9122,7 +9122,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "DISHTV",
@@ -9145,7 +9145,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 2.15,
+    "price": 2.06,
     "series": {
       "rev": [
         null,
@@ -9172,7 +9172,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "JAGRAN",
@@ -9193,7 +9193,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 62.01,
+    "price": 62.3,
     "series": {
       "rev": [
         null,
@@ -9220,7 +9220,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "DBCORP",
@@ -9243,7 +9243,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 175.73,
+    "price": 175.38,
     "series": {
       "rev": [
         null,
@@ -9270,7 +9270,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "UNITDSPR",
@@ -9291,7 +9291,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1363.0,
+    "price": 1354.0,
     "series": {
       "rev": [
         null,
@@ -9318,7 +9318,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "RADICO",
@@ -9339,7 +9339,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 4364.0,
+    "price": 4366.0,
     "series": {
       "rev": [
         null,
@@ -9366,7 +9366,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "UBL",
@@ -9387,7 +9387,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1210.2,
+    "price": 1158.1,
     "series": {
       "rev": [
         null,
@@ -9414,7 +9414,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "TI",
@@ -9435,7 +9435,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 550.85,
+    "price": 540.65,
     "series": {
       "rev": [
         null,
@@ -9462,7 +9462,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "ALLIEDBL",
@@ -9510,7 +9510,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "GLOBUSSPR",
@@ -9531,7 +9531,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 804.8,
+    "price": 786.45,
     "series": {
       "rev": [
         null,
@@ -9558,7 +9558,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "GODFRYPHLP",
@@ -9579,7 +9579,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1862.0,
+    "price": 1891.8,
     "series": {
       "rev": [
         null,
@@ -9606,7 +9606,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "VSTIND",
@@ -9627,7 +9627,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 202.96,
+    "price": 203.16,
     "series": {
       "rev": [
         null,
@@ -9654,7 +9654,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MANAPPURAM",
@@ -9675,7 +9675,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 316.45,
+    "price": 315.85,
     "series": {
       "rev": [
         null,
@@ -9702,7 +9702,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MUTHOOTFIN",
@@ -9723,7 +9723,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 2736.8,
+    "price": 2737.1,
     "series": {
       "rev": [
         null,
@@ -9750,7 +9750,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "FORTIS",
@@ -9771,7 +9771,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 822.0,
+    "price": 770.0,
     "series": {
       "rev": [
         null,
@@ -9798,7 +9798,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "NH",
@@ -9819,7 +9819,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1789.9,
+    "price": 1791.4,
     "series": {
       "rev": [
         null,
@@ -9846,7 +9846,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "KIMS",
@@ -9867,7 +9867,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 769.9,
+    "price": 746.4,
     "series": {
       "rev": [
         null,
@@ -9894,7 +9894,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "SHALBY",
@@ -9915,7 +9915,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 142.01,
+    "price": 138.65,
     "series": {
       "rev": [
         null,
@@ -9942,7 +9942,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "DIVISLAB",
@@ -9963,7 +9963,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 9431.0,
+    "price": 9291.5,
     "series": {
       "rev": [
         null,
@@ -9990,7 +9990,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MANKIND",
@@ -10011,7 +10011,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 2545.0,
+    "price": 2503.8,
     "series": {
       "rev": [
         null,
@@ -10038,7 +10038,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "LUPIN",
@@ -10059,7 +10059,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 2052.1,
+    "price": 2030.2,
     "series": {
       "rev": [
         null,
@@ -10086,7 +10086,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "TORNTPHARM",
@@ -10107,7 +10107,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 4894.0,
+    "price": 4800.0,
     "series": {
       "rev": [
         null,
@@ -10134,7 +10134,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "LAURUSLABS",
@@ -10155,7 +10155,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1979.0,
+    "price": 1980.0,
     "series": {
       "rev": [
         null,
@@ -10182,7 +10182,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "AJANTPHARM",
@@ -10203,7 +10203,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 3557.5,
+    "price": 3620.8,
     "series": {
       "rev": [
         null,
@@ -10230,7 +10230,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "ALKEM",
@@ -10251,7 +10251,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 5250.0,
+    "price": 5163.5,
     "series": {
       "rev": [
         null,
@@ -10278,7 +10278,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "IPCALAB",
@@ -10299,7 +10299,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1938.1,
+    "price": 1927.0,
     "series": {
       "rev": [
         null,
@@ -10326,7 +10326,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "GRANULES",
@@ -10347,7 +10347,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 866.75,
+    "price": 846.55,
     "series": {
       "rev": [
         null,
@@ -10374,7 +10374,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "JBCHEPHARM",
@@ -10422,7 +10422,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "NATCOPHARM",
@@ -10443,7 +10443,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 843.1,
+    "price": 827.5,
     "series": {
       "rev": [
         null,
@@ -10470,7 +10470,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "STRIDES",
@@ -10518,7 +10518,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "ZENSARTECH",
@@ -10539,7 +10539,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 429.0,
+    "price": 422.1,
     "series": {
       "rev": [
         null,
@@ -10566,7 +10566,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "CYIENT",
@@ -10587,7 +10587,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1055.3,
+    "price": 1100.7,
     "series": {
       "rev": [
         null,
@@ -10614,7 +10614,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "HEXAWARE",
@@ -10662,7 +10662,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MASTEK",
@@ -10683,7 +10683,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1523.4,
+    "price": 1562.8,
     "series": {
       "rev": [
         null,
@@ -10710,7 +10710,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "INTELLECT",
@@ -10731,7 +10731,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 613.25,
+    "price": 613.65,
     "series": {
       "rev": [
         null,
@@ -10758,7 +10758,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "STARHEALTH",
@@ -10779,7 +10779,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 538.1,
+    "price": 534.65,
     "series": {
       "rev": [
         null,
@@ -10806,7 +10806,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "ICICILOMB",
@@ -10854,7 +10854,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MAXFININCO",
@@ -10902,7 +10902,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "NIACL",
@@ -10923,7 +10923,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 168.29,
+    "price": 167.02,
     "series": {
       "rev": [
         null,
@@ -10950,7 +10950,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "GICRE",
@@ -10971,7 +10971,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 320.25,
+    "price": 331.15,
     "series": {
       "rev": [
         null,
@@ -10998,7 +10998,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "GODIGIT",
@@ -11019,7 +11019,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 253.2,
+    "price": 260.05,
     "series": {
       "rev": [
         null,
@@ -11046,7 +11046,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "POWERGRID",
@@ -11067,7 +11067,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 261.5,
+    "price": 260.5,
     "series": {
       "rev": [
         null,
@@ -11094,7 +11094,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "ADANIPOWER",
@@ -11115,7 +11115,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 196.3,
+    "price": 204.0,
     "series": {
       "rev": [
         null,
@@ -11142,7 +11142,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "JSWENERGY",
@@ -11163,7 +11163,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 501.15,
+    "price": 494.7,
     "series": {
       "rev": [
         null,
@@ -11190,7 +11190,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "TORNTPOWER",
@@ -11211,7 +11211,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1220.2,
+    "price": 1245.9,
     "series": {
       "rev": [
         null,
@@ -11238,7 +11238,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "NHPC",
@@ -11259,7 +11259,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 73.32,
+    "price": 72.81,
     "series": {
       "rev": [
         null,
@@ -11286,7 +11286,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "SJVN",
@@ -11307,7 +11307,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 59.83,
+    "price": 59.32,
     "series": {
       "rev": [
         null,
@@ -11334,7 +11334,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "IEX",
@@ -11355,7 +11355,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 106.39,
+    "price": 107.0,
     "series": {
       "rev": [
         null,
@@ -11382,7 +11382,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "PTC",
@@ -11403,7 +11403,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 155.75,
+    "price": 155.56,
     "series": {
       "rev": [
         null,
@@ -11430,7 +11430,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "HPCL",
@@ -11478,7 +11478,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MRPL",
@@ -11499,7 +11499,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 171.65,
+    "price": 169.29,
     "series": {
       "rev": [
         null,
@@ -11526,7 +11526,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "CHENNPETRO",
@@ -11547,7 +11547,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1436.9,
+    "price": 1436.3,
     "series": {
       "rev": [
         null,
@@ -11574,7 +11574,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "HINDPETRO",
@@ -11595,7 +11595,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 349.2,
+    "price": 350.35,
     "series": {
       "rev": [
         null,
@@ -11622,7 +11622,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "DCMSHRIRAM",
@@ -11643,7 +11643,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 907.8,
+    "price": 915.6,
     "series": {
       "rev": [
         null,
@@ -11670,7 +11670,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "TCI",
@@ -11691,7 +11691,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 868.7,
+    "price": 872.5,
     "series": {
       "rev": [
         null,
@@ -11718,7 +11718,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "BLUEDART",
@@ -11739,7 +11739,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 4576.0,
+    "price": 4629.0,
     "series": {
       "rev": [
         null,
@@ -11766,7 +11766,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "GESHIP",
@@ -11787,7 +11787,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1537.8,
+    "price": 1560.0,
     "series": {
       "rev": [
         null,
@@ -11814,7 +11814,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "SCI",
@@ -11835,7 +11835,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 272.9,
+    "price": 270.5,
     "series": {
       "rev": [
         null,
@@ -11862,7 +11862,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "CONCOR",
@@ -11883,7 +11883,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 443.5,
+    "price": 447.5,
     "series": {
       "rev": [
         null,
@@ -11910,7 +11910,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MAHLOG",
@@ -11931,7 +11931,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 425.7,
+    "price": 435.85,
     "series": {
       "rev": [
         null,
@@ -11958,7 +11958,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "JSWINFRA",
@@ -11979,7 +11979,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 350.0,
+    "price": 356.6,
     "series": {
       "rev": [
         null,
@@ -12006,7 +12006,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "GPPL",
@@ -12027,7 +12027,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 160.54,
+    "price": 166.75,
     "series": {
       "rev": [
         null,
@@ -12054,7 +12054,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "SAIL",
@@ -12075,7 +12075,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 181.82,
+    "price": 181.49,
     "series": {
       "rev": [
         null,
@@ -12102,7 +12102,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "JSPL",
@@ -12150,7 +12150,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "APLAPOLLO",
@@ -12171,7 +12171,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 2188.6,
+    "price": 2190.1,
     "series": {
       "rev": [
         null,
@@ -12198,7 +12198,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "JINDALSAW",
@@ -12246,7 +12246,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "WELCORP",
@@ -12267,7 +12267,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 2842.0,
+    "price": 2717.0,
     "series": {
       "rev": [
         null,
@@ -12294,7 +12294,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "FINCABLES",
@@ -12315,7 +12315,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1435.5,
+    "price": 1450.3,
     "series": {
       "rev": [
         null,
@@ -12342,7 +12342,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "VGUARD",
@@ -12363,7 +12363,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 307.05,
+    "price": 296.45,
     "series": {
       "rev": [
         null,
@@ -12390,7 +12390,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "CROMPTON",
@@ -12411,7 +12411,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 211.37,
+    "price": 208.67,
     "series": {
       "rev": [
         null,
@@ -12438,7 +12438,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "BAJAJELEC",
@@ -12459,7 +12459,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 309.85,
+    "price": 303.4,
     "series": {
       "rev": [
         null,
@@ -12486,7 +12486,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "TTKPT",
@@ -12534,7 +12534,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "WHIRLPOOL",
@@ -12555,7 +12555,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 888.2,
+    "price": 890.25,
     "series": {
       "rev": [
         null,
@@ -12582,7 +12582,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "KAJARIACER",
@@ -12603,7 +12603,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1190.5,
+    "price": 1235.1,
     "series": {
       "rev": [
         null,
@@ -12630,7 +12630,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "CERA",
@@ -12651,7 +12651,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 5124.5,
+    "price": 5088.0,
     "series": {
       "rev": [
         null,
@@ -12678,7 +12678,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "HINDWARE",
@@ -12726,7 +12726,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "KANSAINER",
@@ -12747,7 +12747,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 181.33,
+    "price": 177.99,
     "series": {
       "rev": [
         null,
@@ -12774,7 +12774,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "INDIGOPNTS",
@@ -12795,7 +12795,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1078.9,
+    "price": 1091.0,
     "series": {
       "rev": [
         null,
@@ -12822,7 +12822,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "ASAHIINDIA",
@@ -12843,7 +12843,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 957.95,
+    "price": 958.85,
     "series": {
       "rev": [
         null,
@@ -12870,7 +12870,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "SAINTGOBAIN",
@@ -12918,7 +12918,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "TIMKEN",
@@ -12939,7 +12939,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 3086.2,
+    "price": 3136.0,
     "series": {
       "rev": [
         null,
@@ -12966,7 +12966,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "SKFINDIA",
@@ -12987,7 +12987,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1514.0,
+    "price": 1509.9,
     "series": {
       "rev": [
         null,
@@ -13014,7 +13014,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "SCHAEFFLER",
@@ -13035,7 +13035,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 3920.0,
+    "price": 3897.1,
     "series": {
       "rev": [
         null,
@@ -13062,7 +13062,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "BHARATFORG",
@@ -13083,7 +13083,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1942.0,
+    "price": 1926.0,
     "series": {
       "rev": [
         null,
@@ -13110,7 +13110,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "SONACOMS",
@@ -13131,7 +13131,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 815.65,
+    "price": 830.0,
     "series": {
       "rev": [
         null,
@@ -13158,7 +13158,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "ENDURANCE",
@@ -13179,7 +13179,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 2654.8,
+    "price": 2656.5,
     "series": {
       "rev": [
         null,
@@ -13206,7 +13206,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "UNOMINDA",
@@ -13227,7 +13227,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1162.0,
+    "price": 1170.0,
     "series": {
       "rev": [
         null,
@@ -13254,7 +13254,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MOTHERSON",
@@ -13275,7 +13275,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 158.56,
+    "price": 163.26,
     "series": {
       "rev": [
         null,
@@ -13302,7 +13302,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "EXIDEIND",
@@ -13323,7 +13323,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 407.0,
+    "price": 412.6,
     "series": {
       "rev": [
         null,
@@ -13350,7 +13350,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "AMARAJABAT",
@@ -13398,7 +13398,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "BOSCHLTD",
@@ -13419,7 +13419,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 45700.0,
+    "price": 47100.0,
     "series": {
       "rev": [
         null,
@@ -13446,7 +13446,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "CGPOWER",
@@ -13467,7 +13467,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 858.05,
+    "price": 854.2,
     "series": {
       "rev": [
         null,
@@ -13494,7 +13494,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "BHARATBIJLEE",
@@ -13542,7 +13542,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "SCHNEIDER",
@@ -13563,7 +13563,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1192.7,
+    "price": 1203.4,
     "series": {
       "rev": [
         null,
@@ -13590,7 +13590,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "KEC",
@@ -13611,7 +13611,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 378.35,
+    "price": 377.25,
     "series": {
       "rev": [
         null,
@@ -13638,7 +13638,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "HGINFRA",
@@ -13659,7 +13659,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 438.25,
+    "price": 432.75,
     "series": {
       "rev": [
         null,
@@ -13686,7 +13686,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "IRB",
@@ -13707,7 +13707,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 16.98,
+    "price": 17.49,
     "series": {
       "rev": [
         null,
@@ -13734,7 +13734,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "PNCINFRA",
@@ -13755,7 +13755,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 129.8,
+    "price": 133.18,
     "series": {
       "rev": [
         null,
@@ -13782,7 +13782,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "EVERESTIND",
@@ -13805,7 +13805,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 436.25,
+    "price": 455.6,
     "series": {
       "rev": [
         null,
@@ -13832,7 +13832,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "NIITLTD",
@@ -13853,7 +13853,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 86.37,
+    "price": 86.17,
     "series": {
       "rev": [
         null,
@@ -13880,7 +13880,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "CLSEL",
@@ -13903,7 +13903,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 282.25,
+    "price": 284.15,
     "series": {
       "rev": [
         null,
@@ -13930,7 +13930,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "APTECHT",
@@ -13951,7 +13951,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 88.61,
+    "price": 88.26,
     "series": {
       "rev": [
         null,
@@ -13978,7 +13978,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "ICRA",
@@ -13999,7 +13999,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 4297.9,
+    "price": 4232.0,
     "series": {
       "rev": [
         null,
@@ -14026,7 +14026,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "CRISIL",
@@ -14047,7 +14047,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 4464.1,
+    "price": 4450.8,
     "series": {
       "rev": [
         null,
@@ -14074,7 +14074,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "KALYANKJIL",
@@ -14095,7 +14095,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 568.85,
+    "price": 553.15,
     "series": {
       "rev": [
         null,
@@ -14122,7 +14122,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "PCJEWELLER",
@@ -14145,7 +14145,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 13.23,
+    "price": 13.2,
     "series": {
       "rev": [
         null,
@@ -14172,7 +14172,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "PATANJALI",
@@ -14193,7 +14193,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 371.4,
+    "price": 363.0,
     "series": {
       "rev": [
         null,
@@ -14220,7 +14220,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "GOLDBEES",
@@ -14241,7 +14241,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 120.64,
+    "price": 121.59,
     "series": {
       "rev": [
         null,
@@ -14268,7 +14268,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "NIFTYBEES",
@@ -14289,7 +14289,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 259.47,
+    "price": 258.5,
     "series": {
       "rev": [
         null,
@@ -14316,7 +14316,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MAITHANALL",
@@ -14337,7 +14337,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 928.2,
+    "price": 925.25,
     "series": {
       "rev": [
         null,
@@ -14364,7 +14364,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "CHAMBLFERT",
@@ -14385,7 +14385,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 413.55,
+    "price": 409.25,
     "series": {
       "rev": [
         null,
@@ -14412,7 +14412,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "COROMANDEL",
@@ -14433,7 +14433,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1792.9,
+    "price": 1758.2,
     "series": {
       "rev": [
         null,
@@ -14460,7 +14460,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "GSFC",
@@ -14481,7 +14481,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 151.65,
+    "price": 150.79,
     "series": {
       "rev": [
         null,
@@ -14508,7 +14508,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "RCF",
@@ -14529,7 +14529,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 108.11,
+    "price": 109.97,
     "series": {
       "rev": [
         null,
@@ -14556,7 +14556,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "NFL",
@@ -14577,7 +14577,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 64.79,
+    "price": 65.2,
     "series": {
       "rev": [
         null,
@@ -14604,7 +14604,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "ZUARI",
@@ -14625,7 +14625,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 221.66,
+    "price": 220.33,
     "series": {
       "rev": [
         null,
@@ -14652,7 +14652,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "DHANUKA",
@@ -14673,7 +14673,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 930.55,
+    "price": 928.35,
     "series": {
       "rev": [
         null,
@@ -14700,7 +14700,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "RALLIS",
@@ -14721,7 +14721,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 199.96,
+    "price": 199.73,
     "series": {
       "rev": [
         null,
@@ -14748,7 +14748,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "BAYERCROP",
@@ -14769,7 +14769,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 3602.7,
+    "price": 3627.6,
     "series": {
       "rev": [
         null,
@@ -14796,7 +14796,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "POONAWALLA",
@@ -14817,7 +14817,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 443.0,
+    "price": 443.85,
     "series": {
       "rev": [
         null,
@@ -14844,7 +14844,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "FIVE",
@@ -14892,7 +14892,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "LICHSGFIN",
@@ -14913,7 +14913,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 548.5,
+    "price": 530.2,
     "series": {
       "rev": [
         null,
@@ -14940,7 +14940,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "PNBHOUSING",
@@ -14961,7 +14961,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1098.2,
+    "price": 1120.0,
     "series": {
       "rev": [
         null,
@@ -14988,7 +14988,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "CANFINHOME",
@@ -15009,7 +15009,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 731.7,
+    "price": 719.2,
     "series": {
       "rev": [
         null,
@@ -15036,7 +15036,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "AADHARHFC",
@@ -15057,7 +15057,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 432.5,
+    "price": 436.0,
     "series": {
       "rev": [
         null,
@@ -15084,7 +15084,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "AAVAS",
@@ -15105,7 +15105,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1248.4,
+    "price": 1211.9,
     "series": {
       "rev": [
         null,
@@ -15132,7 +15132,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "HOMEFIRST",
@@ -15153,7 +15153,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1094.4,
+    "price": 1104.8,
     "series": {
       "rev": [
         null,
@@ -15180,7 +15180,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "IIFL",
@@ -15201,7 +15201,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 607.5,
+    "price": 600.75,
     "series": {
       "rev": [
         null,
@@ -15228,7 +15228,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MAS",
@@ -15276,7 +15276,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "HDFCAMC",
@@ -15297,7 +15297,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 2223.3,
+    "price": 2280.7,
     "series": {
       "rev": [
         null,
@@ -15324,7 +15324,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "NAM-INDIA",
@@ -15345,7 +15345,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1068.0,
+    "price": 1070.0,
     "series": {
       "rev": [
         null,
@@ -15372,7 +15372,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "ICICIAMC",
@@ -15393,7 +15393,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 3233.0,
+    "price": 3136.7,
     "series": {
       "rev": [
         null,
@@ -15420,7 +15420,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "UTIAMC",
@@ -15441,7 +15441,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 877.6,
+    "price": 882.4,
     "series": {
       "rev": [
         null,
@@ -15468,7 +15468,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "NSDL",
@@ -15516,7 +15516,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MOTILALOFS",
@@ -15537,7 +15537,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 996.2,
+    "price": 994.0,
     "series": {
       "rev": [
         null,
@@ -15564,7 +15564,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "ANGELONE",
@@ -15585,7 +15585,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 273.5,
+    "price": 274.0,
     "series": {
       "rev": [
         null,
@@ -15612,7 +15612,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "IIFLSEC",
@@ -15660,7 +15660,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "5PAISA",
@@ -15681,7 +15681,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 304.9,
+    "price": 305.2,
     "series": {
       "rev": [
         null,
@@ -15708,7 +15708,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "PRUDENT",
@@ -15729,7 +15729,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 3098.7,
+    "price": 3129.2,
     "series": {
       "rev": [
         null,
@@ -15756,7 +15756,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "SHAREINDIA",
@@ -15777,7 +15777,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 205.68,
+    "price": 205.01,
     "series": {
       "rev": [
         null,
@@ -15804,7 +15804,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "EDELWEISS",
@@ -15825,7 +15825,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 137.77,
+    "price": 142.73,
     "series": {
       "rev": [
         null,
@@ -15852,7 +15852,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MMTC",
@@ -15873,7 +15873,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 56.76,
+    "price": 56.91,
     "series": {
       "rev": [
         null,
@@ -15900,7 +15900,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "STC",
@@ -15948,7 +15948,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "BATAINDIA",
@@ -15969,7 +15969,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 620.35,
+    "price": 618.75,
     "series": {
       "rev": [
         null,
@@ -15996,7 +15996,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "RELAXO",
@@ -16017,7 +16017,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 291.5,
+    "price": 291.2,
     "series": {
       "rev": [
         null,
@@ -16044,7 +16044,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "INDIAMART",
@@ -16065,7 +16065,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1612.9,
+    "price": 1629.0,
     "series": {
       "rev": [
         null,
@@ -16092,7 +16092,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "CARTRADE",
@@ -16113,7 +16113,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 2907.5,
+    "price": 2899.8,
     "series": {
       "rev": [
         null,
@@ -16140,7 +16140,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "JUSTDIAL",
@@ -16161,7 +16161,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 656.5,
+    "price": 666.15,
     "series": {
       "rev": [
         null,
@@ -16188,7 +16188,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "INFOEDGE",
@@ -16236,7 +16236,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "JKPAPER",
@@ -16257,7 +16257,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 391.35,
+    "price": 393.7,
     "series": {
       "rev": [
         null,
@@ -16284,7 +16284,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "CENTURYPPR",
@@ -16332,7 +16332,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "UFLEX",
@@ -16353,7 +16353,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 647.7,
+    "price": 657.85,
     "series": {
       "rev": [
         null,
@@ -16380,7 +16380,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "JINDALPOLY",
@@ -16401,7 +16401,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 675.3,
+    "price": 672.55,
     "series": {
       "rev": [
         null,
@@ -16428,7 +16428,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "COSMOFILMS",
@@ -16476,7 +16476,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "EPL",
@@ -16497,7 +16497,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 233.05,
+    "price": 237.0,
     "series": {
       "rev": [
         null,
@@ -16524,7 +16524,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MANJUSHREE",
@@ -16572,7 +16572,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "POLYPLEX",
@@ -16593,7 +16593,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1061.3,
+    "price": 1055.0,
     "series": {
       "rev": [
         null,
@@ -16620,7 +16620,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "FINPIPE",
@@ -16641,7 +16641,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 151.15,
+    "price": 151.48,
     "series": {
       "rev": [
         null,
@@ -16668,7 +16668,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "SUPREMEIND",
@@ -16689,7 +16689,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 3445.8,
+    "price": 3451.0,
     "series": {
       "rev": [
         null,
@@ -16716,7 +16716,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "PRINCEPIPE",
@@ -16737,7 +16737,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 255.85,
+    "price": 255.75,
     "series": {
       "rev": [
         null,
@@ -16764,7 +16764,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "GREENLAM",
@@ -16785,7 +16785,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 214.3,
+    "price": 212.85,
     "series": {
       "rev": [
         null,
@@ -16812,7 +16812,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "CENTURYPLY",
@@ -16833,7 +16833,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 665.0,
+    "price": 681.85,
     "series": {
       "rev": [
         null,
@@ -16860,7 +16860,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "FLAIR",
@@ -16881,7 +16881,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 230.38,
+    "price": 229.32,
     "series": {
       "rev": [
         null,
@@ -16908,7 +16908,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "RAJESHEXPO",
@@ -16929,7 +16929,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 63.38,
+    "price": 64.7,
     "series": {
       "rev": [
         null,
@@ -16956,7 +16956,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "GRSE",
@@ -16977,7 +16977,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 2206.1,
+    "price": 2181.9,
     "series": {
       "rev": [
         null,
@@ -17004,7 +17004,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "INDUSTOWER",
@@ -17025,7 +17025,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 367.55,
+    "price": 373.2,
     "series": {
       "rev": [
         null,
@@ -17052,7 +17052,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "BHARTIHEX",
@@ -17100,7 +17100,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "TATACOMM",
@@ -17121,7 +17121,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1654.7,
+    "price": 1656.2,
     "series": {
       "rev": [
         null,
@@ -17148,7 +17148,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MTNL",
@@ -17171,7 +17171,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 23.18,
+    "price": 22.97,
     "series": {
       "rev": [
         null,
@@ -17198,7 +17198,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "HFCL",
@@ -17219,7 +17219,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 216.21,
+    "price": 227.02,
     "series": {
       "rev": [
         null,
@@ -17246,7 +17246,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "STERLITE",
@@ -17294,7 +17294,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "TEJASNET",
@@ -17315,7 +17315,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 490.4,
+    "price": 486.2,
     "series": {
       "rev": [
         null,
@@ -17342,7 +17342,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "ITI",
@@ -17363,7 +17363,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 243.4,
+    "price": 246.4,
     "series": {
       "rev": [
         null,
@@ -17390,7 +17390,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MICROMAX",
@@ -17440,7 +17440,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "EMBASSY",
@@ -17488,7 +17488,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MINDSPACE",
@@ -17536,7 +17536,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "BROOKFIELD",
@@ -17584,7 +17584,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "NXST",
@@ -17632,7 +17632,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "IRBINVIT",
@@ -17680,7 +17680,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "OIL",
@@ -17701,7 +17701,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 459.45,
+    "price": 448.65,
     "series": {
       "rev": [
         null,
@@ -17728,7 +17728,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "NMDC",
@@ -17749,7 +17749,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 77.0,
+    "price": 76.54,
     "series": {
       "rev": [
         null,
@@ -17776,7 +17776,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "HINDZINC",
@@ -17797,7 +17797,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 563.3,
+    "price": 566.0,
     "series": {
       "rev": [
         null,
@@ -17824,7 +17824,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "SANDHAR",
@@ -17845,7 +17845,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 582.7,
+    "price": 585.9,
     "series": {
       "rev": [
         null,
@@ -17872,7 +17872,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MINDACORP",
@@ -17893,7 +17893,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 672.75,
+    "price": 692.85,
     "series": {
       "rev": [
         null,
@@ -17920,7 +17920,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "ALOKINDS",
@@ -17943,7 +17943,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 7.06,
+    "price": 7.09,
     "series": {
       "rev": [
         null,
@@ -17970,7 +17970,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "BIRLATYRES",
@@ -18018,7 +18018,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "NRBBEARING",
@@ -18039,7 +18039,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 541.05,
+    "price": 534.05,
     "series": {
       "rev": [
         null,
@@ -18066,7 +18066,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "CARBORUNIV",
@@ -18087,7 +18087,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1200.5,
+    "price": 1252.5,
     "series": {
       "rev": [
         null,
@@ -18114,7 +18114,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "GRINDWELL",
@@ -18135,7 +18135,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1916.7,
+    "price": 1994.1,
     "series": {
       "rev": [
         null,
@@ -18162,7 +18162,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "HONEYWELL",
@@ -18210,7 +18210,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "CCL",
@@ -18231,7 +18231,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1006.2,
+    "price": 1019.5,
     "series": {
       "rev": [
         null,
@@ -18258,7 +18258,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MCLEODRUSS",
@@ -18281,7 +18281,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 43.56,
+    "price": 44.74,
     "series": {
       "rev": [
         null,
@@ -18308,7 +18308,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "EVEREADY",
@@ -18329,7 +18329,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 318.9,
+    "price": 323.2,
     "series": {
       "rev": [
         null,
@@ -18356,7 +18356,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "IFGLREFRAC",
@@ -18404,7 +18404,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "VESUVIUS",
@@ -18425,7 +18425,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 400.2,
+    "price": 424.2,
     "series": {
       "rev": [
         null,
@@ -18452,7 +18452,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "BALAJITELE",
@@ -18473,7 +18473,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 91.74,
+    "price": 91.26,
     "series": {
       "rev": [
         null,
@@ -18500,7 +18500,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "QUESS",
@@ -18521,7 +18521,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 342.1,
+    "price": 334.95,
     "series": {
       "rev": [
         null,
@@ -18548,7 +18548,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "TEAMLEASE",
@@ -18596,7 +18596,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "FIRST",
@@ -18644,7 +18644,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "LIBERTSHOE",
@@ -18665,7 +18665,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 225.54,
+    "price": 221.01,
     "series": {
       "rev": [
         null,
@@ -18692,7 +18692,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MIRZINTL",
@@ -18740,7 +18740,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "PETRONET",
@@ -18761,7 +18761,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 282.95,
+    "price": 284.5,
     "series": {
       "rev": [
         null,
@@ -18788,7 +18788,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MGL",
@@ -18809,7 +18809,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1050.5,
+    "price": 1058.0,
     "series": {
       "rev": [
         null,
@@ -18836,7 +18836,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "IGL",
@@ -18857,7 +18857,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 142.02,
+    "price": 145.61,
     "series": {
       "rev": [
         null,
@@ -18884,7 +18884,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "GUJGASLTD",
@@ -18932,7 +18932,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "GSPL",
@@ -18980,7 +18980,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "GODREJAGRO",
@@ -19001,7 +19001,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 631.7,
+    "price": 623.55,
     "series": {
       "rev": [
         null,
@@ -19028,7 +19028,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "GODREJIND",
@@ -19049,7 +19049,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1055.7,
+    "price": 1039.4,
     "series": {
       "rev": [
         null,
@@ -19076,7 +19076,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "MAWANASUG",
@@ -19097,7 +19097,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 145.05,
+    "price": 145.01,
     "series": {
       "rev": [
         null,
@@ -19124,7 +19124,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "KESORAMIND",
@@ -19147,7 +19147,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 10.84,
+    "price": 10.92,
     "series": {
       "rev": [
         null,
@@ -19174,7 +19174,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "PHOENIXLTD",
@@ -19195,7 +19195,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 1929.0,
+    "price": 1935.0,
     "series": {
       "rev": [
         null,
@@ -19222,7 +19222,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "AWFIS",
@@ -19243,7 +19243,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 247.1,
+    "price": 244.1,
     "series": {
       "rev": [
         null,
@@ -19270,7 +19270,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "VBL",
@@ -19291,7 +19291,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 430.0,
+    "price": 432.0,
     "series": {
       "rev": [
         null,
@@ -19318,7 +19318,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "ALOKTEXT",
@@ -19368,7 +19368,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "FILATEX",
@@ -19389,7 +19389,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 112.0,
+    "price": 107.76,
     "series": {
       "rev": [
         null,
@@ -19416,7 +19416,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "SPENTEX",
@@ -19464,7 +19464,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "CSBBANK",
@@ -19487,7 +19487,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 316.2,
+    "price": 311.0,
     "series": {
       "rev": [
         null,
@@ -19514,7 +19514,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "BANKBEES",
@@ -19535,7 +19535,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 564.42,
+    "price": 567.42,
     "series": {
       "rev": [
         null,
@@ -19562,7 +19562,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "JUNIORBEES",
@@ -19583,7 +19583,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 761.66,
+    "price": 756.31,
     "series": {
       "rev": [
         null,
@@ -19610,7 +19610,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "TATACONSUM",
@@ -19631,7 +19631,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 967.7,
+    "price": 949.5,
     "series": {
       "rev": [
         null,
@@ -19658,7 +19658,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "ACMESOLAR",
@@ -19679,7 +19679,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 437.95,
+    "price": 439.0,
     "series": {
       "rev": [
         null,
@@ -19706,7 +19706,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "BOROSCI",
@@ -19727,7 +19727,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 114.84,
+    "price": 113.91,
     "series": {
       "rev": [
         null,
@@ -19754,7 +19754,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "CLEAN",
@@ -19775,7 +19775,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 775.75,
+    "price": 794.35,
     "series": {
       "rev": [
         null,
@@ -19802,7 +19802,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "EMMVEE",
@@ -19825,7 +19825,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 314.55,
+    "price": 315.9,
     "series": {
       "rev": [
         null,
@@ -19852,7 +19852,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "FUJIYAMA",
@@ -19900,7 +19900,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "INSOLATION",
@@ -19948,7 +19948,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "KPIGREEN",
@@ -19969,7 +19969,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 371.25,
+    "price": 358.95,
     "series": {
       "rev": [
         null,
@@ -19996,7 +19996,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "NTPCGREEN",
@@ -20017,7 +20017,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 89.99,
+    "price": 93.37,
     "series": {
       "rev": [
         null,
@@ -20044,7 +20044,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "OSWALPUMPS",
@@ -20065,7 +20065,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 266.25,
+    "price": 266.75,
     "series": {
       "rev": [
         null,
@@ -20092,7 +20092,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "PREMIER",
@@ -20113,7 +20113,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 2.66,
+    "price": 2.73,
     "series": {
       "rev": [
         null,
@@ -20140,7 +20140,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "RAVINDRA",
@@ -20188,7 +20188,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "SAATVIK",
@@ -20236,7 +20236,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "SHAKTIPUMPS",
@@ -20284,7 +20284,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "STERLINGWIL",
@@ -20332,7 +20332,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "VIKRAMSOLAR",
@@ -20380,7 +20380,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "VISAKAIND",
@@ -20401,7 +20401,7 @@
     "ebitda": null,
     "pat": null,
     "margin": null,
-    "price": 87.07,
+    "price": 83.58,
     "series": {
       "rev": [
         null,
@@ -20428,7 +20428,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "WAAREE",
@@ -20476,7 +20476,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "WAAREERENEW",
@@ -20524,7 +20524,7 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   },
   {
     "symbol": "WEBSOL",
@@ -20572,6 +20572,6 @@
         null
       ]
     },
-    "refreshed_at": "2026-09-29"
+    "refreshed_at": "2026-09-30"
   }
 ]
